@@ -5,6 +5,7 @@
 {"key":"csp_DouDou","name":"🌈影视导航","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"dr_荐片","name":"🧲荐片","type":3,"api":"./lib/apiv995drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/荐片.js"},
 {"key":"九六","name":"🎀九六","type":3,"api":"csp_Cs1369","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar": "./lib/uyv0t678c488189af47bb91dc108484d17431.jar;md5;14a42dfc35f4780e0d2aebf9fa397bbd"},
+{"key": "csp_XBPQ_haoxi","name": "🌍好戏","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/好戏2.json","jar": "./lib/hx.jar"},
 {"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmyy.com/"},
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://haozhansou.com/"},
 {"key":"drpy_js","name":"🏠厂长","type":3,"api":"./lib/apiv139drpy2.min.js","ext":"./lib/czspp.txt"},
