@@ -4,7 +4,7 @@
     
     "站名":"Free影视",
     
-    "主页url":"https://www.freeok.vip",
+    "主页url":"https://www.freeok.pro",
     
     "简介":"module-info-introduction-content\">&&</p>",
     
@@ -40,7 +40,7 @@
     
     "播放列表":"<a&&</a>",
     
-    "分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
+    "分类url":"https://www.freeok.pro/vod-show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
     
     "分类":"电影$1#电视剧$2#动漫$3#综艺$4",
     
