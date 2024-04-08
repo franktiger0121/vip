@@ -1,5 +1,5 @@
 {
-"spider":"./lib/fan.txt;md5;013794cda7f4898b65b8a7f7382cc5a1",
+    "spider":"./lib/fan.txt;md5;013794cda7f4898b65b8a7f7382cc5a1",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "sites":[
@@ -12,14 +12,6 @@
 {"key":"南瓜","name":"🎃南瓜","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"七七","name":"👒七七","type":3,"api":"csp_Kunyu77","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"一起看 ","name":"🎉一起","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
-{
-"key": "sansan",
-"name": "⭕️三三",
-"type": 3,
-"api": "csp_SP33",
-"searchable": 1,"quickSearch": 1,
-"changeable": 0
-},
 {"key":"YiSo","name":"😹易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext": {"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}},
 {"key":"PanSou","name":"🦊盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext": {"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}},
 {"key":"UpYun","name":"😻Up搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext": {"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}},
@@ -31,58 +23,6 @@
 {"key":"比特","name":"🍄比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"zxzj","name":"🍊在线","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"}
 ],
-"parses": [{
-"name": "解析聚合",
-	"type": 3,
-"url": "Demo"
-	},
-{
-"name": "Json并发",
-"type": 2,
-"url": "Parallel"
-},
-{
-"name": "Json轮询",
-"type": 2,
-"url": "Sequence"
-},
-{
-"name": "蚂蚁",
-"type": 1,"url": "","ext": {
-"flag": [
-"NBY"
-],
-"header": {
-"User-
-
-Agent": "okhttp/4.1.0"
-}
-}
-},
-{
-"name": "米饭",
-"type": 1,
-"url": "http://119.91.123.253:2345/Api/yun.php?url=",
-"ext": {
-"flag": [
-"爱奇艺",
-"奇艺","qq",
-"腾讯",
-"youku","优酷",
-"pptv",
-"PPTV",
-"letv",
-"乐视",
-	"leshi",
-"bilibili",
-"哔哩哔哩","哔
-
-哩",
-"mgtv",
-"芒果",
-	"芒果"
-],
-
 "doh":[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
 
 {"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},
@@ -99,8 +39,6 @@ Agent": "okhttp/4.1.0"
 ["vip.ffzy","hd.ffzy","ffzy"],"regex":["25.0666","25.08","20.52","25.1","25.1999"]},{"name":"hs","hosts":["huoshan.com"],"regex":["item_id="]},{"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},{"name":"nm","hosts":
 
 ["toutiaovod.com"],"regex":["video/tos/cn"]},{"name":"cl","hosts":["magnet"],"regex":["最 新","直 播","更 新"]}],
-"lives":[{"name":"ITV","type":0,"url":"./lib/itvlist.txt","playerType":1},{"name":"IPV6","type":0,"url":"./lib/ipv6.m3u","playerType":1 },{ "name": "XIUTAN", "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, 
-
-like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0", "type": 0, "url": "./lib/xiutan.m3u" }]
+"lives":[{"name":"ITV","type":0,"url":"./lib/itvlist.txt","playerType":1},{"name":"IPV6","type":0,"url":"./lib/ipv6.m3u","playerType":1 },{ "name": "XIUTAN", "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0", "type": 0, "url": "./lib/xiutan.m3u" }]
 
 }
