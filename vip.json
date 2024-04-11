@@ -18,10 +18,8 @@
 {"key":"PanSearch","name":"🙀盘Se","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext": {"aliToken":"tvfan/token.txt","from":"auto|4k|fhd"}},
 {"key":"push_agent","name":"🛴手机","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext": {"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"auto|4k|fhd"}},
 {"key":"苹果","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"drpy_js","name":"🏠厂长","type":3,"api":"./lib/apiv995drpy2.min.js","ext":"./lib/czspp.txt"},
-{"key": "csp_耐看","name": "💢耐看","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/NK.json","jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968"},
 {"key":"追剧","name":"💡追剧","type":3,"api":"csp_TTian","ext":"http://app.kzjtv.com","jar":"./lib/jar.php;md5;4642bf29455e1bbc92414086532ff5b3"},
-{"key":"茶杯狐","name":"🎄茶杯","type":3,"api":"./lib/apiv827nxog.js","ext":"./lib/102.js","jar":"./lib/jar.php;md5;4642bf29455e1bbc92414086532ff5b3"},
+{"key":"drpy_js","name":"🏠厂长","type":3,"api":"./lib/apiv995drpy2.min.js","ext":"./lib/czspp.txt"},
 {
 "key": "freeok",
 "name": "🌟FREEOK",
@@ -31,7 +29,7 @@
 "jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 "ext": {
 "分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
-"分类": "FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿",
+"分类": "电影&剧集&动漫&综艺&短剧&少儿",
 "分类值": "1&2&3&4&12&5",
 "副标题": "<div class=\"module-item-note\">&&</div>",
 "嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
@@ -42,6 +40,7 @@
 "简介": "<p>&&</p>"
 }
 },
+{"key": "csp_耐看","name": "💢耐看","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/NK.json","jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968"},
 {"key":"视觉","name":"👓视觉","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/"},
 {"key":"比特","name":"🍄比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"zxzj","name":"🍊在线","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"}
