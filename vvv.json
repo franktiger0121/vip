@@ -2,7 +2,7 @@
   "spider":"./lib/Y.jar",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"sites":[
-{"key":"csp_DouDou","name":"🌈影视导航","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"csp_DouDou","name":"🌈导航","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"dr_荐片","name":"🧲荐片","type":3,"api":"./lib/apiv995drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/荐片.js"},
 {"key":"比特","name":"🍄比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"drpy_js","name":"🏠厂长","type":3,"api":"./lib/apiv995drpy2.min.js","ext":"./lib/czspp.txt"},
