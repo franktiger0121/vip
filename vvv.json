@@ -7,7 +7,6 @@
 {"key":"比特","name":"🍄比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"drpy_js","name":"🏠厂长","type":3,"api":"./lib/apiv995drpy2.min.js","ext":"./lib/czspp.txt"},
 {"key": "csp_耐看","name": "💢耐看","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/NK.json"},
-{"key":"csp_Free","name":"🅱️Free影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/free.json"},
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
 {"key":"暴風","name":"📼暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["国产剧","韩国剧","泰国剧","海外剧","欧美剧","香港剧","台湾剧","日本剧","连续剧","电影片","喜剧片","动作片","科幻片","爱情片","恐怖片","战争片","剧情片","纪录片","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","动画片","体育赛事","足球","篮球","网球","斯诺克","预告片","电影解说","理论片"]},
 { "key": "49zy",
