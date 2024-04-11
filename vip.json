@@ -19,14 +19,14 @@
 {"key":"push_agent","name":"🛴手机","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext": {"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"auto|4k|fhd"}},
 {"key":"苹果","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"drpy_js","name":"🏠厂长","type":3,"api":"./lib/apiv995drpy2.min.js","ext":"./lib/czspp.txt"},
-{"key": "csp_耐看","name": "💢耐看","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/NK.json","jar":"./lib/YS.jar;md5;7B7B0D16BF03311874A7B8791510F858"},
+{"key": "csp_耐看","name": "💢耐看","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/NK.json","jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968"},
 {
 "key": "freeok",
 "name": "🌟FREEOK",
 "type": 3,
 "api": "csp_XBPQ",
 "playerType": "2",
-"jar": "./lib/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 "ext": {
 "分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
 "分类": "FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿",
