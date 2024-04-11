@@ -1,7 +1,6 @@
 {
 "spider":"./lib/fan.txt;md5;013794cda7f4898b65b8a7f7382cc5a1",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
-
 "sites":[
 {"key":"豆豆","name":"🌈导航","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"玩偶","name":"👽玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"auto|4k|fhd","siteUrl":"https://api.wogg.xyz/"}},
@@ -22,7 +21,7 @@
 {"key":"drpy_js","name":"🏠厂长","type":3,"api":"./lib/apiv995drpy2.min.js","ext":"./lib/czspp.txt"},
 {
 "key": "freeok",
-"name": "🌟FREEOK",
+"name": "🌟FREE",
 "type": 3,
 "api": "csp_XBPQ",
 "playerType": "2",
