@@ -4,9 +4,31 @@
 	"sites":[
 {"key":"csp_DouDou","name":"🌈导航","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"dr_荐片","name":"🧲荐片","type":3,"api":"./lib/apiv995drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/荐片.js"},
-{"key":"比特","name":"🍄比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"追剧","name":"💡追剧","type":3,"api":"csp_TTian","ext":"http://app.kzjtv.com","jar":"./lib/jar.php;md5;4642bf29455e1bbc92414086532ff5b3"},
 {"key":"drpy_js","name":"🏠厂长","type":3,"api":"./lib/apiv995drpy2.min.js","ext":"./lib/czspp.txt"},
-{"key": "csp_耐看","name": "💢耐看","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/NK.json"},
+{
+"key": "freeok",
+"name": "🌟FREE",
+"type": 3,
+"api": "csp_XBPQ",
+"playerType": "2",
+"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
+"ext": {
+"分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
+"分类": "电影&剧集&动漫&综艺&短剧&少儿",
+"分类值": "1&2&3&4&12&5",
+"副标题": "<div class=\"module-item-note\">&&</div>",
+"嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
+"线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
+"线路标题": "<span>&&</small>",
+"导演": "导演：&&</div>",
+"主演": "主演：&&</div>",
+"简介": "<p>&&</p>"
+}
+},
+{"key": "csp_耐看","name": "💢耐看","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/NK.json","jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968"},
+{"key":"比特","name":"🍄比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"视觉","name":"👓视觉","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/"},
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
 {"key":"暴風","name":"📼暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["国产剧","韩国剧","泰国剧","海外剧","欧美剧","香港剧","台湾剧","日本剧","连续剧","电影片","喜剧片","动作片","科幻片","爱情片","恐怖片","战争片","剧情片","纪录片","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","动画片","体育赛事","足球","篮球","网球","斯诺克","预告片","电影解说","理论片"]},
 { "key": "49zy",
