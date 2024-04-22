@@ -14,6 +14,29 @@
 {"key":"dr_荐片","name":"🧲荐片","type":3,"api":"./lib/apiv995drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/荐片.js"},
 {"key":"萌米","name":"👀萌米","type":3,"api":"csp_AppTT","timeout":15,"playerType":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
 {"key": "csp_圣城","name": "🌙圣城","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/圣城影视.json","jar": "./lib/4k.jar"},
+
+{"key":"drpy_js","name":"🏠厂长","type":3,"api":"./lib/apiv995drpy2.min.js","ext":"./lib/czspp.txt"},
+{
+"key": "freeok",
+"name": "🌟FREE",
+"type": 3,
+"api": "csp_XBPQ",
+"playerType": "2",
+"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
+"ext": {
+"分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
+"分类": "电影&剧集&动漫&综艺&短剧&少儿",
+"分类值": "1&2&3&4&12&5",
+"副标题": "<div class=\"module-item-note\">&&</div>",
+"嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
+"线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
+"线路标题": "<span>&&</small>",
+"导演": "导演：&&</div>",
+"主演": "主演：&&</div>",
+"简介": "<p>&&</p>"
+}
+},
+{"key": "csp_耐看","name": "💢耐看","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/NK.json","jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968"},
 {"key":"南瓜","name":"🎃南瓜","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"低端","name":"⏮️低端","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"zxzj","name":"🍊在线","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"},
