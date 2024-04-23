@@ -25,7 +25,6 @@
 {"key":"PanSou","name":"🦊盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext": {"aliToken":"tvfan/token.txt","from":"auto|4k|fhd"}},
 {"key":"视觉","name":"👓视觉","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/"},
 {"key":"新6V","name":"🧲新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "https://www.xb6v.com/"},
-{"key":"旧6V","name":"🧲旧6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "https://www.6v520.com/"},
 {"key":"毛驴","name":"🍓毛驴","type":3,"api":"csp_MLYS","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},
 {"key":"fan","name":"视频免费","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"cc","name":"勿信广告","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"changeable":0}
