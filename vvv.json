@@ -7,7 +7,6 @@
 {"key":"追剧","name":"💡追剧","type":3,"api":"csp_TTian","ext":"http://app.kzjtv.com","jar":"./lib/jar.php;md5;4642bf29455e1bbc92414086532ff5b3"},
 {"key":"drpy_js","name":"🏠厂长","type":3,"api":"./lib/apiv995drpy2.min.js","ext":"./lib/czspp.txt"},
 {"key": "影探VIP","name": "🍥影探","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms-vip.lyyytv.cn/api.php/app/"},
-{"key":"爱迪","name":"🍟爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 {
 "key": "freeok",
 "name": "🌟FREE",
