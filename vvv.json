@@ -4,7 +4,6 @@
 	"sites":[
 {"key":"csp_DouDou","name":"🌈导航","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"新6V","name":"🧲新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "https://www.xb6v.com/"},
-{"key": "csp_菲克","name": "🍾菲克","type": 3,"playerType": 2,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./lib/菲克.json"},
 {"key": "hanju","name": "👑天天","type": 3,"playerType": 2,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/天天韩剧.json" },
 {"key": "XBPQsj","name": "🔥视觉","type": 3,"playerType": 2,"api": "csp_XBPQ","filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "./lib/6080.json"},
 
@@ -100,7 +99,6 @@
 "type": 3,
 "api": "csp_XBPQ",
 "playerType": "2",
-"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 "ext": {
 "分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
 "分类": "电影&剧集&动漫&综艺&短剧&少儿",
