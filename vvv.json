@@ -245,6 +245,8 @@
 {"name":"Web聚合","type":3,"url":"Web"},
 {"name": "春盈","type": 1,"url": "http://119.91.123.253:2345/Api/yun.php?url="},
 {"name": "夜幕","type": 0,"url": "https://www.yemu.xyz/?url="},
+{"name": "777","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
+{"name": "QL","type": 0,"url": "https://t1.qlplayer.cyou/player/?url="},
 {"name": "JSON","type": 0,"url": "https://jx.jsonplayer.com/player/?url="},
 {"name": "M3U8","type": 0,"url": "https://www.playm3u8.cn/jiexi.php?url="},
 {"name": "M3U8二","type": 0,"url": "https://jx.m3u8.tv/jiexi/?url="},
