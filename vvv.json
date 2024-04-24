@@ -3,11 +3,9 @@
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"sites":[
 {"key":"csp_DouDou","name":"🌈导航","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"新6V","name":"🧲新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "https://www.xb6v.com/"},
-{"key": "csp_Mp4Mov","name": "🧲磁力Mp4电影","type": 3,"playerType": 2,"jar": "./lib/xym.jar","api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_SeedHub","name": "🧲SeedHub","type": 3,"api": "csp_SeedHub","playerType": 1,"jar": "./lib/xym.jar","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_Xunlei8","name": "🧲迅雷吧","type": 3,"api": "csp_Xunlei8","playerType": 1,"jar": "./lib/xym.jar","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"dr_荐片","name":"🧲荐片","type":3,"api":"./lib/apiv995drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/荐片.js"},
+{"key":"新6V","name":"🧲新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "https://www.xb6v.com/"},
+{"key": "csp_Xunlei8","name": "🧲迅雷吧","type": 3,"api": "csp_Xunlei8","playerType": 1,"jar": "./lib/xym.jar","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"追剧","name":"💡追剧","type":3,"api":"csp_TTian","ext":"http://app.kzjtv.com/","jar":"./lib/jar.php;md5;4642bf29455e1bbc92414086532ff5b3"},
 {"key": "hanju","name": "👑天天","type": 3,"playerType": 2,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/天天韩剧.json" },
 {"key":"2345","name":"🎲2345","type":3,"api":"csp_2345","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
@@ -116,6 +114,8 @@
 },
 {"key": "csp_耐看","name": "💢耐看","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/NK.json","jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968"},
 {"key":"视觉","name":"👓视觉","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/"},
+{"key": "csp_Mp4Mov","name": "🧲Mp4电影","type": 3,"playerType": 2,"jar": "./lib/xym.jar","api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_SeedHub","name": "🧲SeedHub","type": 3,"api": "csp_SeedHub","playerType": 1,"jar": "./lib/xym.jar","searchable": 1,"quickSearch": 1,"filterable": 1},
     {
       "key": "cjzy_快看",
       "name": "👁️‍🗨️快看",
