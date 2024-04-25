@@ -20,8 +20,7 @@
 {"key":"UpYun","name":"😻Up搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext": {"aliToken":"tvfan/token.txt","from":"auto|4k|fhd"}},
 {"key":"PanSearch","name":"🙀盘Se","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext": {"aliToken":"tvfan/token.txt","from":"auto|4k|fhd"}},
 {"key":"PanSou","name":"🦊盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext": {"aliToken":"tvfan/token.txt","from":"auto|4k|fhd"}},
-{"key":"厂长","name":"📔厂长","type":3,"api":"csp_Czsapp","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.cz233.com/"},
-{"key":"毛驴","name":"🍓毛驴","type":3,"api":"csp_MLYS","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},
+{"key":"厂长","name":"📔厂长","type":3,"api":"csp_Czsapp","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "./lib/czspp.txt"},
 {"key": "csp_Xunlei8","name": "🧲迅雷","type": 3,"api": "csp_Xunlei8","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./lib/XYQ1.jar"},
 {"key":"zxzj","name":"🍊在线","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"}
 ],
