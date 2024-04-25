@@ -1,7 +1,7 @@
-﻿var rule={
+var rule={
     title:'厂长资源',
-    host:'https://www.czys.top/', 
-    //host:'https://www.cz233.com/', 
+    //host:'https://www.czys.top/', 
+    host:'https://www.cz233.com/', 
     //host:'https://www.czzy77.com/',
     hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});HOST = jsp.pdfh(html,"h3&&a&&href")',
     url:'/fyclassfyfilter',
