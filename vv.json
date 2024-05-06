@@ -10,6 +10,7 @@
 {"key":"新6V","name":"🧲新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "https://www.xb6v.com/"},
 {"key": "csp_Xunlei8","name": "🧲迅雷吧","type": 3,"api": "csp_Xunlei8","playerType": 1,"jar": "./lib/xym.jar","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "drpy_js_厂长资源","name": "🍥厂长","type": 3,"api": "./lib/apiv39drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/厂长资源.js"},
+{"key":"追剧","name":"💡追剧","type":3,"api":"csp_TTian","ext":"http://app.kzjtv.com/","jar":"./lib/jar.php;md5;4642bf29455e1bbc92414086532ff5b3"},
 {"key": "hanju","name": "👑天天","type": 3,"playerType": 2,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/天天韩剧.json" },
 {"key":"zy_iKun资源","name":"🗳iKUN","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","泰国剧","欧美剧","海外剧","香港剧","台湾剧","日本剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","记录片","短片","动画片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日本动漫"]},
 {"key": "csp_耐看","name": "💢耐看","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/NK.json","jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968"},
@@ -51,8 +52,6 @@
         "分类url":"https://m.mp4us.com/list/{cateId}-{catePg}.html;;dm"
              }
         },
-{"key":"追剧影视","name":"💡追剧┃影视","type":3,"api":"csp_TTian","ext":"http://app.kzjtv.com","jar":"./lib/jar.php;md5;72882de184eefbff3f3ae24e062e01d9"},
-{"key":"文才影视","name":"💡文才┃影视","type":3,"api":"csp_Wexwencai","searchable":1,"changeable":1,"jar":"./lib/jar.php;md5;72882de184eefbff3f3ae24e062e01d9"},
 {"key":"天空资源","name":"🌤天空","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"","categories":["国产剧","剧情片","大陆综艺","动作片"]},
 {"key":"zy_光速资源","name":"⚡光速","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","大陆剧","欧美剧","港澳剧","韩剧","动漫电影","日剧","台湾剧","泰剧","记录片","体育赛事"]}
 ],
