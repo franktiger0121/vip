@@ -135,6 +135,23 @@
 {"key": "影探VIP","name": "🍥影探","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms-vip.lyyytv.cn/api.php/app/"},
 {"key":"drpy_js","name":"🏠厂长","type":3,"api":"./lib/apiv995drpy2.min.js","ext":"./lib/czspp.txt"},
 {"key":"视觉","name":"👓视觉","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/"},
+{"key":"Dygang","name":"🧲电影港","type":3,"jar":"./lib/fix140412.jar;md5;fc0e5aa90d33991dd6d56a6b1ed616aa","api":"csp_Dygang"},
+{"key":"MP4us","name":"🧲MP4us","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar",
+            "ext": {
+        "标题":"<font*>&&</font>",
+                "数组":"<li>&&</li>",
+                "副标题":"rate badge\">&&</span>+|+update_time\">&&</span>",
+                "线路标题":"<h2>&&</h2>[替换:下载地址]",
+                "播放数组":"download_url&&</ul>",
+                "播放列表":"<a&&</a>[不包含:ed2k]",
+                "线路数组":"download_url&&</ul>",
+                "分类二次截取":"<ul&&</ul>",
+                "分类数组":"<li&&</li>",
+                "分类标题":">&&</a",
+                "分类ID":"/list/&&-1.html",
+        "分类url":"https://m.mp4us.com/list/{cateId}-{catePg}.html;;dm"
+             }
+        },
 {"key": "csp_Mp4Mov","name": "🧲Mp4电影","type": 3,"playerType": 2,"jar": "./lib/xym.jar","api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_SeedHub","name": "🧲SeedHub","type": 3,"api": "csp_SeedHub","playerType": 1,"jar": "./lib/xym.jar","searchable": 1,"quickSearch": 1,"filterable": 1},
     {
