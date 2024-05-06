@@ -33,23 +33,6 @@
 {"key":"视觉","name":"👓视觉","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/"},
 {"key":"csp_Ikanbot","name": "👾IKAN","type": 3,"jar":"./lib/XYQ.jar;md5;81544697bc790013fc5bb1d2939bf0b6","api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.ikanbot.com"},
 {"key": "csp_Juqq","name": "⭕剧圈","type": 3,"jar":"./lib/PandaQ240505.jar;md5;0e58ee7721c00ae32f0e83280ef8e1b3","api": "csp_Juqq","playerType": "2"},
-{"key":"Dygang","name":"🧲电影港","type":3,"jar":"./lib/fix140412.jar;md5;fc0e5aa90d33991dd6d56a6b1ed616aa","api":"csp_Dygang"},
-{"key":"MP4us","name":"🧲MP4us","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar",
-            "ext": {
-        "标题":"<font*>&&</font>",
-                "数组":"<li>&&</li>",
-                "副标题":"rate badge\">&&</span>+|+update_time\">&&</span>",
-                "线路标题":"<h2>&&</h2>[替换:下载地址]",
-                "播放数组":"download_url&&</ul>",
-                "播放列表":"<a&&</a>[不包含:ed2k]",
-                "线路数组":"download_url&&</ul>",
-                "分类二次截取":"<ul&&</ul>",
-                "分类数组":"<li&&</li>",
-                "分类标题":">&&</a",
-                "分类ID":"/list/&&-1.html",
-        "分类url":"https://m.mp4us.com/list/{cateId}-{catePg}.html;;dm"
-             }
-        },
 {"key":"天空资源","name":"🌤天空","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"","categories":["国产剧","剧情片","大陆综艺","动作片"]},
 {"key":"zy_光速资源","name":"⚡光速","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","大陆剧","欧美剧","港澳剧","韩剧","动漫电影","日剧","台湾剧","泰剧","记录片","体育赛事"]}
 ],
