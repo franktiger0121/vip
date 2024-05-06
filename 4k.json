@@ -20,7 +20,7 @@
 {"key": "drpy_js_厂长资源","name": "🍥厂长","type": 3,"api": "./lib/apiv39drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/厂长资源.js"},
 {"key": "hanju","name": "👑天天","type": 3,"playerType": 2,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/天天韩剧.json" },
 {"key":"zy_iKun资源","name":"🗳iKUN","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","泰国剧","欧美剧","海外剧","香港剧","台湾剧","日本剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","记录片","短片","动画片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日本动漫"]},
-{"key": "csp_耐看","name": "💢耐看","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/NK.json","jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968"},
+{"key": "csp_耐看","name": "💢耐看","type": 3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/NK.json"},
 {
     "key":"csp_XBPQ_aikan",
     "name":"🍹爱看",
