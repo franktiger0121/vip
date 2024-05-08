@@ -33,6 +33,26 @@
 {"key":"天空资源","name":"🌤天空","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"","categories":["国产剧","剧情片","大陆综艺","动作片"]},
 {"key":"zy_光速资源","name":"⚡光速","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","大陆剧","欧美剧","港澳剧","韩剧","动漫电影","日剧","台湾剧","泰剧","记录片","体育赛事"]},
 {"key":"奇优","name":"️💢奇优","type":3,"jar":"./lib/Y.jar","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/QY.json"},
+{"key":"zy_iKun资源","name":"🗳iKUN","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","泰国剧","欧美剧","海外剧","香港剧","台湾剧","日本剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","记录片","短片","动画片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日本动漫"]},
+{
+"key": "freeok",
+"name": "🌟FREE",
+"type": 3,"jar":"./lib/Y.jar",
+"api": "csp_XBPQ",
+"playerType": "2",
+"ext": {
+"分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
+"分类": "电影&剧集&动漫&综艺&短剧&少儿",
+"分类值": "1&2&3&4&12&5",
+"副标题": "<div class=\"module-item-note\">&&</div>",
+"嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
+"线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
+"线路标题": "<span>&&</small>",
+"导演": "导演：&&</div>",
+"主演": "主演：&&</div>",
+"简介": "<p>&&</p>"
+}
+},
 {"key":"zxzj","name":"🍊在线","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"}
 ],
 "parses":[
