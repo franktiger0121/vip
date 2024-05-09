@@ -5,6 +5,11 @@
 "sites":[
 {"key":"豆豆","name":"🌈导航","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"厂长","name":"📔厂长","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://czzy.top/"},
+{"key": "csp_Juqq","name": "⭕剧圈","type": 3,"jar":"./lib/PandaQ240505.jar;md5;0e58ee7721c00ae32f0e83280ef8e1b3","api": "csp_Juqq","playerType": "2"},
+{"key":"追剧","name":"💡追剧","type":3,"api":"csp_TTian","ext":"http://app.kzjtv.com/","jar":"./lib/jar.php;md5;4642bf29455e1bbc92414086532ff5b3"},
+{"key":"比特","name":"🍄比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"drpy_js","name":"🏠厂长","type":3,"api":"./lib/apiv39drpy2.min.js","ext":"./lib/czspp.txt"},
+{"key": "csp_耐看","name": "💢耐看","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/NK.json","jar":"./lib/Y.jar"},
 {"key":"热播","name":"📺热播","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"小点","name":"💥小点","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"360","name":"💘360","type":3,"jar":"./lib/Y.jar","api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
@@ -12,11 +17,7 @@
 				"免嗅": "0"
 			}
 		},
-{"key":"drpy_js","name":"🏠厂长","type":3,"api":"./lib/apiv39drpy2.min.js","ext":"./lib/czspp.txt"},
-{"key": "csp_耐看","name": "💢耐看","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/NK.json","jar":"./lib/Y.jar"},
-{"key":"比特","name":"🍄比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
 {"key": "南瓜","name": "🎃南瓜","type": 3,"api": "./lib/apiv39drpy2.min.js","playerType":1,"ext": "./lib/NG.js"},
-{"key":"追剧","name":"💡追剧","type":3,"api":"csp_TTian","ext":"http://app.kzjtv.com/","jar":"./lib/jar.php;md5;4642bf29455e1bbc92414086532ff5b3"},
 {"key":"苹果","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"白嫖","name":"👻白飘","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.baipiaoys.com:9092/"},
 {"key":"萌米","name":"👀萌米","type":3,"api":"csp_AppTT","timeout":15,"playerType":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
@@ -25,7 +26,6 @@
 {"key":"低端","name":"⏮️低端","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
 {"key": "hanju","name": "👑天天","type": 3,"jar":"./lib/Y.jar","playerType": 2,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/TT.json" },
 {"key":"csp_Ikanbot","name": "👾IKAN","type": 3,"jar":"./lib/XYQ.jar;md5;81544697bc790013fc5bb1d2939bf0b6","api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.ikanbot.com"},
-{"key": "csp_Juqq","name": "⭕剧圈","type": 3,"jar":"./lib/PandaQ240505.jar;md5;0e58ee7721c00ae32f0e83280ef8e1b3","api": "csp_Juqq","playerType": "2"},
 {"key":"天空资源","name":"🌤天空","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"","categories":["国产剧","剧情片","大陆综艺","动作片"]},
 {"key":"zy_光速资源","name":"⚡光速","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","大陆剧","欧美剧","港澳剧","韩剧","动漫电影","日剧","台湾剧","泰剧","记录片","体育赛事"]},
 {"key":"奇优","name":"️💢奇优","type":3,"jar":"./lib/Y.jar","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/QY.json"},
