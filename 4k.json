@@ -14,6 +14,8 @@
 			}
 		},
 {"key":"drpy_js","name":"🏠厂长","type":3,"api":"./lib/apiv39drpy2.min.js","ext":"./lib/czspp.txt"},
+{"key":"drpy_czzy","name":"🏠厂长czzy","type":3,"api":"./lib/apiv39drpy2.min.js","ext":"./lib/czzy.txt"},
+{"key":"drpy_czzy77","name":"🏠厂长czzy77","type":3,"api":"./lib/apiv39drpy2.min.js","ext":"./lib/czzy77.txt"},
 {"key": "csp_耐看","name": "💢耐看","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/NK.json","jar":"./lib/Y.jar"},
 {"key":"比特","name":"🍄比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
 {"key": "南瓜","name": "🎃南瓜","type": 3,"api": "./lib/apiv39drpy2.min.js","playerType":1,"ext": "./lib/NG.js"},
