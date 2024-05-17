@@ -1,10 +1,10 @@
 {
-"spider":"./lib/fan.txt;md5;ccc15f8c3df51befa578c1ce8632359f",
+"spider":"./lib/fan.txt",
 "wallpaper":"https://xn--spsx60cgim8pd.xxooo.cf/",
 
 "sites":[
 {"key":"豆豆","name":"🌈导航","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key":"玩偶","name":"🌕4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://api.wogg.xyz/"}},
+{"key":"玩偶","name":"🌕4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/"}},
 {"key":"厂长","name":"📔厂长","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://czzy.top/"},
 {"key": "csp_Juqq","name": "⭕剧圈","type": 3,"jar":"./lib/PandaQ240505.jar;md5;0e58ee7721c00ae32f0e83280ef8e1b3","api": "csp_Juqq","playerType": "2"},
 {"key":"追剧","name":"💡追剧","type":3,"api":"csp_TTian","ext":"http://app.kzjtv.com/","jar":"./lib/jar.php;md5;4642bf29455e1bbc92414086532ff5b3"},
