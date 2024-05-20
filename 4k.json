@@ -1,6 +1,6 @@
 {
-"spider":"./lib/fan.txt",
-"wallpaper":"https://xn--spsx60cgim8pd.xxooo.cf/",
+"spider":"./lib/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446",
+"wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "sites":[
 {"key":"豆豆","name":"🌈导航","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
