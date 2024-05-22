@@ -1,5 +1,5 @@
 {
-	"spider": "./lib/xmmmmm.jar;md5;b6def02ec13662a8739d9f80f1f42e89",
+	"spider": "./lib/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446",
 	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -9,32 +9,6 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0
-		},
-		{
-			"key": "Bili",
-			"name": "哔哔┃合集",
-			"type": 3,
-			"api": "csp_Bili",
-			"style": {
-				"type": "rect",
-				"ratio": 1.597
-			},
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext": "./lib/bilibili.json"
-		},
-		{
-			"key": "88js",
-			"name": "⚽ LIVE┃看球",
-			"type": 3,
-			"api": "csp_Kanqiu",
-			"style": {
-				"type": "list"
-			},
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 0
 		},
 		{
 			"key": "csp_Czsapp",
@@ -49,7 +23,7 @@
 		},
 		{
 			"key": "玩偶",
-			"name": "🧸玩偶哥哥┃4K弹幕",
+			"name": "🧸玩偶哥哥",
 			"type": 3,
 			"api": "csp_WoGG",
 			"searchable": 1,
@@ -58,9 +32,8 @@
 			"ext": {
 				"aliToken": "tvfan/token.txt",
 				"quarkCookie": "tvfan/cookie.txt",
-				"from": "4k|auto|fhd",
-				"siteUrl": "https://www.wogg.link/",
-				"danMu": "弹"
+				"from": "4k",
+				"siteUrl": "https://www.wogg.link/"
 			}
 		},
 		{
@@ -273,20 +246,7 @@
 			"changeable": 0,
 			"ext": "tvfan/token.txt$$$satoken=e96da071-9159-4827-89e1-ea93eea899e1"
 		},
-		{
-			"key": "米搜",
-			"name": "🍚米搜┃搜索",
-			"type": 3,
-			"api": "csp_MIPanSo",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": {
-				"pan": "quark",
-				"quarkCookie": "tvfan/cookie.txt",
-				"from": "4k|auto|fhd"
-			}
-		},
+{"key":"PanSearch","name":"👑盘Se","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext": {"aliToken":"tvfan/token.txt","from":"4k"}},
 		{
 			"key": "push_agent",
 			"name": "公众号：神秘的哥哥们",
@@ -295,7 +255,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
 		}
 	],
 	"parses": [{
