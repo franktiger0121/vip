@@ -5,7 +5,6 @@
 {"key":"玩偶","name":"👑4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/"}},
 {"key":"drpy_js","name":"🏠厂长","type":3,"api":"./lib/apiv39drpy2.min.js","ext":"./lib/czspp.txt"},
 {"key": "csp_耐看","name": "💢耐看","type": 3,"jar":"./lib/Y.jar","api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/NK.json"},
-{"key": "freeok","name": "🌟FREE","type": 3,"jar":"./lib/Y.jar","api": "csp_XBPQ","playerType": "2","ext": {"分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1","分类": "电影&剧集&动漫&综艺&短剧&少儿","分类值": "1&2&3&4&12&5","副标题": "<div class=\"module-item-note\">&&</div>","嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/","线路数组": "data-dropdown-value=&&</div>[不包含:夸克]","线路标题": "<span>&&</small>","导演": "导演：&&</div>","主演": "主演：&&</div>","简介": "<p>&&</p>"}},
 {"key":"酷看","name":"💡酷看","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"视觉","name":"👓视觉","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/"},
 {"key":"南瓜","name":"🎃南瓜","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
