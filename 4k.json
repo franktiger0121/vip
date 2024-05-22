@@ -6,14 +6,12 @@
 {"key":"drpy_js","name":"🏠厂长","type":3,"api":"./lib/apiv39drpy2.min.js","ext":"./lib/czspp.txt"},
 {"key": "csp_耐看","name": "💢耐看","type": 3,"jar":"./lib/Y.jar","api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/NK.json"},
 {"key": "南瓜NG","name": "🎃南瓜NG","type": 3,"api": "./lib/apiv39drpy2.min.js","playerType":1,"ext": "./lib/NG.js"},
-{
-"key": "freeok",
+{"key": "freeok",
 "name": "🌟FREE",
 "type": 3,"jar":"./lib/Y.jar"
 "api": "csp_XBPQ",
 "playerType": "2",
-"ext": {
-"分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
+"ext": {"分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
 "分类": "电影&剧集&动漫&综艺&短剧&少儿",
 "分类值": "1&2&3&4&12&5",
 "副标题": "<div class=\"module-item-note\">&&</div>",
@@ -22,11 +20,9 @@
 "线路标题": "<span>&&</small>",
 "导演": "导演：&&</div>",
 "主演": "主演：&&</div>",
-"简介": "<p>&&</p>"
-}
+"简介": "<p>&&</p>"}
 },
-{
-            "key": "索尼",
+{"key": "索尼",
             "name": "🛸索尼",
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
