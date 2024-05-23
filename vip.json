@@ -1,7 +1,5 @@
 {"spider":"./lib/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446",
 "spider":"./lib/xmmmmm.jar;md5;b6def02ec13662a8739d9f80f1f42e89",
-"spider":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
-"spider":"./lib/jar.php;md5;4642bf29455e1bbc92414086532ff5b3",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 {"key":"豆豆","name":"🌈导航","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
