@@ -1,114 +1,7 @@
 {
 	"spider": "./lib/xmmmmm.jar;md5;b6def02ec13662a8739d9f80f1f42e89",
 	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-	"sites": [{
-			"key": "豆豆",
-			"name": "豆瓣┃主页",
-			"type": 3,
-			"api": "csp_DouDou",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0
-		},
-		{
-			"key": "Bili",
-			"name": "哔哔┃合集",
-			"type": 3,
-			"api": "csp_Bili",
-			"style": {
-				"type": "rect",
-				"ratio": 1.597
-			},
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext": "./lib/bilibili.json"
-		},
-		{
-			"key": "88js",
-			"name": "⚽ LIVE┃看球",
-			"type": 3,
-			"api": "csp_Kanqiu",
-			"style": {
-				"type": "list"
-			},
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 0
-		},
-		{
-			"key": "csp_Czsapp",
-			"name": "️1080P┃厂长",
-			"type": 3,
-			"api": "csp_NewCz",
-			"playerType": 2,
-			"searchable": 1,
-			"changeable": 0,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "玩偶",
-			"name": "🧸玩偶哥哥┃4K弹幕",
-			"type": 3,
-			"api": "csp_WoGG",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": {
-				"aliToken": "tvfan/token.txt",
-				"quarkCookie": "tvfan/cookie.txt",
-				"from": "4k|auto|fhd",
-				"siteUrl": "https://www.wogg.link/",
-				"danMu": "弹"
-			}
-		},
-		{
-			"key": "sansan",
-			"name": "1080P┃解析",
-			"type": 3,
-			"api": "csp_SP360",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0
-		},
-		{
-			"key": "酷看",
-			"name": "1080P┃快看",
-			"type": 3,
-			"api": "csp_Kkys",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1
-		},
-		{
-			"key": "剧圈",
-			"name": "1080P┃剧圈",
-			"type": 3,
-			"api": "csp_Juqq",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1
-		},
-		{
-			"key": "云播",
-			"name": "1080P┃云播",
-			"type": 3,
-			"api": "csp_Tvyb",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1
-		},
-		{
-			"key": "南瓜",
-			"name": "1080P┃南瓜",
-			"type": 3,
-			"api": "csp_NanGua",
-			"playerType": 2,
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1
-		},
+	"sites": [
 		{
 			"key": "saohuo",
 			"name": "1080P┃骚火",
@@ -117,7 +10,7 @@
 			"changeable": 0,
 			"quickSearch": 1,
 			"playerType": "2",
-			"jar": "./lib/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_XBPQ",
 			"ext": {
 				"嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
@@ -138,7 +31,7 @@
 			"type": 3,
 			"api": "csp_XBPQ",
 			"playerType": "2",
-			"jar": "./lib/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 			"ext": {
 				"分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
 				"请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
@@ -153,34 +46,14 @@
 				"简介": "<p>&&</p>"
 			}
 		},
-		{
-			"key": "苹果",
-			"name": "苹果┃1080P",
-			"type": 3,
-			"api": "csp_LiteApple",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1
-		},
-		{
-			"key": "糯米",
-			"name": "糯米┃秒播",
-			"type": 3,
-			"api": "csp_Nmys",
-			"timeout": 15,
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"ext": "./lib/nmys.json"
-		},
-		{
+				{
 			"key": "黑狐",
 			"name": "1080P┃黑狐",
 			"type": 3,
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"jar": "./lib/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 			"playerType": "2",
 			"api": "csp_XBPQ",
 			"ext": {
@@ -220,7 +93,7 @@
 			"key": "双黄",
 			"name": "1080P┃蛋蛋",
 			"type": 3,
-			"jar": "./lib/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_XBPQ",
 			"ext": {
 				"嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
@@ -238,7 +111,7 @@
 			"name": "1080P┃热播",
 			"type": 3,
 			"changeable": 1,
-			"jar": "./lib/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_XBPQ",
 			"playerType": "1",
 			"ext": {
@@ -261,41 +134,6 @@
 				"分类": "电视剧$2#电影$1#综艺$3#动漫$4",
 				"分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a"
 			}
-		},
-
-		{
-			"key": "zhitiao",
-			"name": "🚀4KK┃易搜",
-			"type": 3,
-			"api": "csp_YiSo",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": "tvfan/token.txt$$$satoken=e96da071-9159-4827-89e1-ea93eea899e1"
-		},
-		{
-			"key": "米搜",
-			"name": "🍚米搜┃搜索",
-			"type": 3,
-			"api": "csp_MIPanSo",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": {
-				"pan": "quark",
-				"quarkCookie": "tvfan/cookie.txt",
-				"from": "4k|auto|fhd"
-			}
-		},
-		{
-			"key": "push_agent",
-			"name": "公众号：神秘的哥哥们",
-			"type": 3,
-			"api": "csp_Push",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
 		}
 	],
 	"parses": [{
