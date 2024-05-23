@@ -2,7 +2,6 @@
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 {"key":"豆豆","name":"🌈导航","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key": "csp_耐看","name": "🌟耐看","type": 3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/NK.json"},
 {"key": "hanju","name": "🌟天天","type": 3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","playerType": 2,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/TT.json" },
 {"key":"追剧","name":"💡追剧","type":3,"jar":"./lib/jar.php;md5;4642bf29455e1bbc92414086532ff5b3","api":"csp_TTian","ext":"http://app.kzjtv.com/"},
 {"key": "csp_Juqq","name": "⭕剧圈","type": 3,"jar":"./lib/xmmmmm.jar;md5;b6def02ec13662a8739d9f80f1f42e89","api": "csp_Juqq","playerType": "2"},
