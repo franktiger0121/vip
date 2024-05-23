@@ -8,7 +8,6 @@
 {"key": "zhitiao","name": "👑易搜","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "tvfan/token.txt$$$satoken=e96da071-9159-4827-89e1-ea93eea899e1"},
 {"key":"追剧","name":"💡追剧","type":3,"jar":"./lib/xmmmmm.jar;md5;b6def02ec13662a8739d9f80f1f42e89","api":"csp_TTian","ext":"http://app.kzjtv.com/"},
 {"key": "csp_Juqq","name": "⭕剧圈","type": 3,"jar":"./lib/xmmmmm.jar;md5;b6def02ec13662a8739d9f80f1f42e89","api": "csp_Juqq","playerType": "2"},
-{"key":"csp_Ikanbot","name": "👾IKAN","type": 3,"jar":"./lib/XYQ.jar;md5;81544697bc790013fc5bb1d2939bf0b6","api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.ikanbot.com"},
 {"key": "sansan","name": "⭕360","type": 3,"jar":"./lib/xmmmmm.jar;md5;b6def02ec13662a8739d9f80f1f42e89","api": "csp_SP360","searchable": 1,"quickSearch": 1,"changeable": 0},
 {"key": "YUNBO","name": "⭕云播","type": 3,"jar":"./lib/xmmmmm.jar;md5;b6def02ec13662a8739d9f80f1f42e89","api": "csp_Tvyb","searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key": "RBZJ","name": "🌟热播家","type": 3,"changeable": 1,"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api": "csp_XBPQ","playerType": "1","ext": {
