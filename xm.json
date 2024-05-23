@@ -2,50 +2,6 @@
 	"spider": "./lib/xmmmmm.jar;md5;b6def02ec13662a8739d9f80f1f42e89",
 	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 	"sites": [
-		{
-			"key": "saohuo",
-			"name": "1080P┃骚火",
-			"type": 3,
-			"searchable": 1,
-			"changeable": 0,
-			"quickSearch": 1,
-			"playerType": "2",
-			"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
-			"api": "csp_XBPQ",
-			"ext": {
-				"嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
-				"分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
-				"分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
-				"数组二次截取": "class=\"v_list\">&&</ul>",
-				"数组": "\"v_img\"&&/div>",
-				"标题": "title=\"&&\"",
-				"副标题": "v_note\"&&</div",
-				"跳转播放链接": "<iframe*src=\"&&\"",
-				"二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
-				"三次跳转播放链接": "\"url\"*\"&&\""
-			}
-		},
-		{
-			"key": "freeok",
-			"name": "1080P┃FROK",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"playerType": "2",
-			"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
-			"ext": {
-				"分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
-				"请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-				"分类": "FREE电影&FREE剧集&FREE动漫&FREE综艺",
-				"分类值": "1&2&3&4",
-				"副标题": "<div class=\"module-item-note\">&&</div>",
-				"嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
-				"线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
-				"线路标题": "<span>&&</small>",
-				"导演": "导演：&&</div>",
-				"主演": "主演：&&</div>",
-				"简介": "<p>&&</p>"
-			}
-		},
 				{
 			"key": "黑狐",
 			"name": "1080P┃黑狐",
@@ -58,7 +14,7 @@
 			"api": "csp_XBPQ",
 			"ext": {
 				"站名": "黑狐影院",
-				"主页url": "http://fagmn.com",
+				"主页url": "http://tipu.xjqxz.top",
 				"数组": "class=\"stui-vodlist__box\"&&</a",
 				"图片": "data-original=\"&&\"",
 				"标题": "title=\"&&\"",
@@ -66,7 +22,7 @@
 				"嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
 				"过滤词": "/hls/#php",
 				"副标题": "<span class=\"pic-text text-right\">&&</span>",
-				"搜索url": "http://fagmn.com/search.php;post;searchword={wd}",
+				"搜索url": "http://tipu.xjqxz.top/api.php/v2.vod/androidsearch10086?page=1&wd={wd}",
 				"搜索模式": "1",
 				"搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
 				"搜索图片": "data-original=\"&&\"",
@@ -86,7 +42,7 @@
 				"播放链接": "href=\"&&\"",
 				"免嗅": "0",
 				"分类": "电影$1#电视剧$2#动漫$3#综艺$4",
-				"分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
+				"分类url": "http://tipu.xjqxz.top/list/{cateId}_{catePg}.html?order=time"
 			}
 		},
 		{
@@ -97,42 +53,13 @@
 			"api": "csp_XBPQ",
 			"ext": {
 				"嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
-				"请求头": "手机#Referer$https://www.dandanju.cc/",
-				"分类url": "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html",
+				"请求头": "手机#Referer$http://tipu.xjqxz.top",
+				"分类url": "http://tipu.xjqxz.top/show/{cateId}--------{catePg}---2023.html",
 				"分类": "电影$1#剧集$2#动漫$4#综艺$4",
 				"数组": " <li class=\"col-md-6 col-sm-4 col-xs-3&&</li",
 				"搜索模式": "1",
-				"搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html",
+				"搜索url": "http://tipu.xjqxz.top/api.php/v2.vod/androidsearch10086?page=1&wd={wd}",
 				"搜索数组": "<li class=\"active clearfix&&</li"
-			}
-		},
-		{
-			"key": "热播库",
-			"name": "1080P┃热播",
-			"type": 3,
-			"changeable": 1,
-			"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
-			"api": "csp_XBPQ",
-			"playerType": "1",
-			"ext": {
-				"主页url": "https://rebozj.pro",
-				"数组": "class=\"stui-vodlist__thumb lazyload&&</a>",
-				"图片": "data-original=\"&&\"",
-				"标题": "title=\"&&\"",
-				"链接": "href=\"&&\"",
-				"副标题": "class=\"pic-text text-right\"><b>&&</span>",
-				"搜索模式": "0",
-				"嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com",
-				"线路数组": "<h4 class=\"title&&/h4>",
-				"线路标题": ">&&<",
-				"播放列表": "<a&&/a>",
-				"播放标题": ">&&<",
-				"影片类型": "类型：&&</p>",
-				"导演": "导演：&&</p>",
-				"主演": "主演：&&</p>",
-				"简介": "display: none;\">&&</span>",
-				"分类": "电视剧$2#电影$1#综艺$3#动漫$4",
-				"分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a"
 			}
 		}
 	],
