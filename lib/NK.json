@@ -1,0 +1,14 @@
+﻿{
+"站名":"耐看影视",
+"主页url":"https://lkvod.us/",
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4",
+"分类url":"https://lkvod.us/show/{cateId}--{by}------{catePg}---{year}.html;;ak",
+
+"数组":"class=\"col-xs-3\">&&</li>",
+
+"搜索模式":"1",
+"搜索url":"https://lkvod.us/nk/-------------.html?wd={wd}",
+
+"线路数组":"class=\"stui-pannel__head clearfix\">&&</div>"
+
+}
