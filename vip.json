@@ -1,7 +1,7 @@
 {"spider":"./lib/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
-{"key":"热播2","name":"💡热播2","type":3,"jar":"./lib/jar.php;md5;afadb80089d4e52d2360a8d0cf5555a9","api":"csp_TTian","ext":"http://v.rbotv.cn/"},
+{"key":"热播2","name":"💡热播2","type":3,"jar":"./lib/jar.php;md5;4642bf29455e1bbc92414086532ff5b3","api":"csp_TTian","ext":"http://v.rbotv.cn/"},
 {"key": "csp_NAIKAN","name": "💢耐看","type": 3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/NK.json"},
 {"key":"低端","name":"⏮️低端","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"小点","name":"💥小点","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
