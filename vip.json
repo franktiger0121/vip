@@ -100,7 +100,7 @@
       "key": "非凡",
       "name": "🍉非凡",
       "type": 0,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
       "searchable": 1,
       "changeable": 1,
       "categories": [
