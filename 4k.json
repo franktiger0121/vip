@@ -92,7 +92,7 @@
     \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
     \"线路标题\":\"<span>&&</small>\",
     \"播放数组\":\"class=\\\"module-play-list&&</div>\",
-    \"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$5\",
+    \"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",
     \"分类url\":\"https://www.92kyy.com/vodshow/{cateId}--------{catePg}---.html\"}"},
         {
 			"key": "黑狐",
@@ -155,12 +155,9 @@
 			}
 		},
 {"key":"zy_iKun资源","name":"🗳iKUN","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","泰国剧","欧美剧","海外剧","香港剧","台湾剧","日本剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","记录片","短片","动画片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日本动漫"]},
-{"key":"天空资源","name":"🌤天空","type":1,"api":"https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list","searchable":1,"quickSearch":1,"playUrl":"","categories":["国产剧","剧情片","大陆综艺","动作片"]},
-{"key":"zy_光速资源","name":"⚡光速","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/at/xml/","searchable":1,"quickSearch":1,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","大陆剧","欧美剧","港澳剧","韩剧","动漫电影","日剧","台湾剧","泰剧","记录片","体育赛事"]},
 {"key":"低端","name":"⏮️低端","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"南瓜","name":"🎃南瓜","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"dr_荐片","name":"🧲荐片","type":3,"api":"./lib/apiv39drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/JP.js"},
-{"key":"XBPQ_文才","name":"🌟文才","type":3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","ext":{"分类": "国产剧&短剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧","分类值": "14&42&22&26&36&25&30&23&69&15&16&62","分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}","数组二次截取": "list\":[&&]","数组": "{&&}[不包含:]","图片": "vod_pic\":\"&&\"","标题": "vod_name\":\"&&\"","副标题": "+vod_remarks\":\"&&\"","链接": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,","搜索url": "https://api.zeqaht.com/api.php/provide/vod?ac=detail&wd={wd}","搜索模式": "1","搜索二次截取": "list\":[&&]","搜索数组": "{&&}[不包含:]","搜索图片": "vod_pic\"*\"&&\"","搜索标题": "vod_name\"*\"&&\"","搜索副标题": "type_name\":\"&&\"","搜索链接": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,","影片类型": "vod_class\"*\"&&\"","导演": "vod_director\"*\"&&\"","主演": "vod_actor\"*\"&&\"","简介": "vod_content\"*\"&&\"","线路二次截取": "\"list\":[&&]","线路数组": "\"vod_play_from\":&&,","线路标题": "\"&&\"","播放数组": "vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]","播放二次截取": "","播放列表": "表&&表","播放标题": "题&&题","播放链接": "链&&链","嗅探词": ".m3u8","播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad","免嗅": "0"}},
 {"key":"奇优","name":"️🌟奇优","type":3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/QY.json"}],
 "parses":[
 //{"name":"VIP轮询","type":2,"url":"Sequence"},
