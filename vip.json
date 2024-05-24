@@ -6,7 +6,7 @@
 {"key": "南瓜","name": "🎃南瓜","type": 3,"api": "./lib/apiv39drpy2.min.js","playerType":1,"ext": "./lib/NG.js"},
 {"key": "csp_耐看","name": "💢耐看","type": 3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/NK.json"},
 {"key": "影探VIP","name": "🍥影探","type": 3,"jar":"./lib/YS.jar","api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms-ytmh.lyyytv.cn/api.php/app/"},
-{"key": "csp_明帝1","name": "💢明帝","type": 3,"api": "csp_XBPQ","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/MD.json"},
+{"key": "csp_明帝1","name": "💢明帝","type": 3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api": "csp_XBPQ","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/MD.json"},
 {"key": "3602","name": "💢360","type": 3,"api": "./lib/apiv39drpy2.min.js","playerType":2,"ext": "./lib/360.js"},
 {
     "key":"csp_XBPQ_aikan",
