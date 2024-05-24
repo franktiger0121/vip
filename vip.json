@@ -186,8 +186,7 @@
 {"key":"zy_光速资源","name":"⚡光速","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","大陆剧","欧美剧","港澳剧","韩剧","动漫电影","日剧","台湾剧","泰剧","记录片","体育赛事"]},
 {"key":"极速资源","name":"🎀极速","type":1,"api":"https://jszyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["日剧","马泰剧","内地剧","欧美剧","香港剧","韩剧","台湾剧","恐怖片","动画片","剧情片","战争片","动作片","记录片","爱情片","喜剧片","科幻片","灾难片","悬疑片","犯罪片","中国动漫","日本动漫","欧美动漫"]},
 {"key":"drpy_js","name":"🏠厂长","type":3,"api":"./lib/apiv39drpy2.min.js","ext":"./lib/czspp.txt"},
-{"key":"机器人","name":"🎀机器","type":3,"jar":"./lib/jar.php;md5;4642bf29455e1bbc92414086532ff5b3","api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://v.aikanbot.com"},
-{"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"jar":"./lib/XYQ.jar","api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.aikanbot.com"}
+{"key":"机器人","name":"👾Ikanbot","type":3,"jar":"./lib/jar.php;md5;4642bf29455e1bbc92414086532ff5b3","api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://v.aikanbot.com"}
 ],
 "parses":[
 //{"name":"VIP轮询","type":2,"url":"Sequence"},
