@@ -2,9 +2,8 @@
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 {"key":"热播2","name":"💡热播2","type":3,"jar":"./lib/jar.php;md5;4642bf29455e1bbc92414086532ff5b3","api":"csp_TTian","ext":"http://v.rbotv.cn/"},
-{"key":"drpy_js","name":"🏠厂长","type":3,"api":"./lib/apiv39drpy2.min.js","ext":"./lib/czspp.txt"},
+{"key": "csp_NAIKAN","name": "💢耐看","type": 3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/NK.json"},
 {"key": "南瓜","name": "🎃南瓜","type": 3,"api": "./lib/apiv39drpy2.min.js","playerType":1,"ext": "./lib/NG.js"},
-{"key": "csp_耐看","name": "💢耐看","type": 3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/NK.json"},
 {"key": "影探VIP","name": "🍥影探","type": 3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms-ytmh.lyyytv.cn/api.php/app/"},
 {"key": "3602","name": "💢360","type": 3,"api": "./lib/apiv39drpy2.min.js","playerType":2,"ext": "./lib/360.js"},
 {"key":"AIKAN","name":"👓爱看","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.92kyy.com/"},
@@ -177,6 +176,7 @@
               ]
     },
 {"key":"暴風","name":"📼暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["国产剧","韩国剧","泰国剧","海外剧","欧美剧","香港剧","台湾剧","日本剧","连续剧","电影片","喜剧片","动作片","科幻片","爱情片","恐怖片","战争片","剧情片","纪录片","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","动画片","体育赛事","足球","篮球","网球","斯诺克","预告片","电影解说","理论片"]},
+{"key":"drpy_js","name":"🏠厂长","type":3,"api":"./lib/apiv39drpy2.min.js","ext":"./lib/czspp.txt"},
 {"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.ikanbot.com"}
 ],
 "parses":[
