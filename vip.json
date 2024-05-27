@@ -33,7 +33,6 @@
 {"key": "csp_圣城","name": "🌟圣城","type": 3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/SC.json"},
 {"key": "南瓜","name": "🎃南瓜","type": 3,"api": "./lib/apiv39drpy2.min.js","playerType":1,"ext": "./lib/NG.js"},
 {"key": "影探VIP","name": "🍥影探","type": 3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms-ytmh.lyyytv.cn/api.php/app/"},
-{"key": "FYVIP","name": "🍥FY","type": 3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://121.62.23.215:2560/api.php/smtv/"},
 {"key":"AIKAN","name":"👓爱看","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.92kyy.com/"},
 {
       "key": "cjzy_快看",
