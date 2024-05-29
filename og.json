@@ -5,7 +5,7 @@
 {
 "wallpaper":"http://tv.nxog.top/m/t/",
 "logo":"http://tv.nxog.top/m/LOGO2.gif",
-"spider":"./lib/jar.php;md5;afadb80089d4e52d2360a8d0cf5555a9","warningText":"tv提示:
+"spider":"./lib/jar.php;md5;4642bf29455e1bbc92414086532ff5b3","warningText":"tv提示:
 📢接口软件永远免费 
 📢长期维护切勿贩卖",
 
@@ -19,6 +19,7 @@
 
 //jar🎄🛶🎄🎃💘💖💖
 {"key":"阿里云盘登录","name":"🐲阿里云盘登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
+{"key":"csp_NK","name":"🎀耐看2","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://lkvod.us/show/{cateId}--{by}------{catePg}---{year}.html;;ak","分类":"电影$1#电视剧$2#综艺$3#动漫$4","线路数组":"data-dropdown-value=&&</div>[排序:自建三.5>自建三>新自建>第四>第五]"}},
 {"key":"南瓜影视","name":"💡南瓜┃影视","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"天天影视","name":"💡天天┃影视","type":3,"api":"csp_TTian","ext":"http://op.ysdqjs.cn"},
 {"key":"热播影视","name":"💡热播┃影视","type":3,"api":"csp_TTian","ext":"http://v.rbotv.cn"},
