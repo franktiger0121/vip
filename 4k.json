@@ -42,7 +42,7 @@
 {"key":"dr_荐片","name":"🧲荐片","type":3,"api":"./lib/apiv39drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/JP.js"},
 {"key": "csp_Juqq","name": "⭕剧圈","type": 3,"jar":"./lib/xmmmmm.jar;md5;b6def02ec13662a8739d9f80f1f42e89","api": "csp_Juqq","playerType": "2"},
 {"key": "YUNBO","name": "💖云播","type": 3,"jar":"./lib/xmmmmm.jar;md5;b6def02ec13662a8739d9f80f1f42e89","api": "csp_Tvyb","searchable": 1,"quickSearch": 1,"changeable": 1},
-{"key": "韩剧","name": "🐶韩剧","type": 3,"changeable": 1,"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api": "csp_XBPQ","playerType": "1","ext": "./lib/TT.json"},
+{"key": "韩剧","name": "🐶韩剧","type": 3,"changeable": 1,"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api": "csp_XBPQ","playerType": "1","ext": {"站名":"天天韩剧","主页url":"https://hanju2.yingdouw.com/","分类":"韩剧$1#电影$2#美剧$26#日剧$27#动漫$28#国产剧$29#泰剧$30","分类url":"https://hanju2.yingdouw.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area=&year={year}&letter=&yuyan=&state=&money=&ver=&jq={class};;ak","数组":"class=\"col-xs-3\">&&</li>","搜索模式":"1","搜索url":"https://hanju2.yingdouw.com/search.php;post;searchword={wd}","线路数组":"class=\"stui-pannel__head clearfix\">&&</div>"}},
 {
     "key":"csp_XBPQ_AIKAN",
     "name":"🦁爱看",
