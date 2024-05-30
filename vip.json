@@ -2,8 +2,6 @@
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 {"key":"热播2","name":"💡热播2","type":3,"jar":"./lib/jar.php;md5;4642bf29455e1bbc92414086532ff5b3","api":"csp_TTian","ext":"http://v.rbotv.cn/"},
-{"key":"drpy_jsCZ","name":"🏠233","type":3,"api":"./lib/apiv39drpy2.min.js","ext":"./lib/CZ.txt"},
-{"key":"drpy_jsCZ77","name":"🏠77","type":3,"api":"./lib/apiv39drpy2.min.js","ext":"./lib/CZ77.txt"},
 		{
 			"key": "圣城",
 			"name": "🌟圣城",
