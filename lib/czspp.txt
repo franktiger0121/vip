@@ -19,8 +19,8 @@ var rule={
         'User-Agent': 'MOBILE_UA',
         'Cookie': 'esc_search_captcha=1'
     },
-    class_name:'国产剧&韩剧&日剧&美剧&华语电影&电影&高分影视&豆瓣电影&动画',
-    class_url:'/movie_bt_series/guochanju&/movie_bt_series/hj&/movie_bt_series/rj&/movie_bt_series/mj&/movie_bt_series/huayudianying&/movie_bt_series/dyy&gaofenyingshi&dbtop250&/movie_bt_series/dohua',
+    class_name:'国产剧&韩剧&日剧&美剧&华语电影&电影&豆瓣电影&动画',
+    class_url:'/movie_bt_series/guochanju&/movie_bt_series/hj&/movie_bt_series/rj&/movie_bt_series/mj&/movie_bt_series/huayudianying&/movie_bt_series/dyy&dbtop250&/movie_bt_series/dohua',
 	play_parse:true,
 
 	// lazy代码:源于海阔香雅情大佬 / 小程序：香情影视 https://pastebin.com/L4tHdvFn
