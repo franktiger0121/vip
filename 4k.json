@@ -75,6 +75,7 @@
 				"分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
 				"分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
 				"数组二次截取": "class=\"v_list\">&&</ul>",
+			    "线路数组":"<a data-toggle=\"tab\"&&/a>[排序:1号线路>2号线路>3号线路>4号线路]",
 				"数组": "\"v_img\"&&/div>",
 				"标题": "title=\"&&\"",
 				"副标题": "v_note\"&&</div",
