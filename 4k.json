@@ -89,7 +89,7 @@
 				"搜索链接": "href=\"&&\"",
 				"搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
 				"搜索后缀": "/view/",
-				"线路数组": "href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]",
+				"线路数组": "href=\"#down&&/a>",
 				"线路标题": ">&&<",
 				"播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
 				"状态": "地区：&&</p>",
