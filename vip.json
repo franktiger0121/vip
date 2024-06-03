@@ -3,7 +3,7 @@
 "sites":[
 {"key":"热播","name":"📺热播","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"drpyVOFLIX","name":"🏠VOFLIX","type":3,"api":"./lib/apiv39drpy2.min.js","ext":"./lib/voflix.js"},
-{"key":"sliu_spider","name":"石榴","jar":"./lib/JARfix240524.jar","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},
+{"key":"sliu_spider","name":"石榴","jar":"./lib/fix240524.jar","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_XBPQ_CC","name":"🤖策驰","type":3,"jar":"./lib/jar.php;md5;4642bf29455e1bbc92414086532ff5b3","api":"csp_XBPQ","ext":{"分类url": "https://www.cecidy.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;ak","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 {"key":"drpy_js","name":"🏠厂长","type":3,"api":"./lib/apiv39drpy2.min.js","ext":"./lib/czspp.txt"},
 {"key":"糯米","name":"🍙糯米","type":3,"api":"csp_Nmys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/nmys.json"},
