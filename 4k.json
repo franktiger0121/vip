@@ -35,7 +35,8 @@
     \"线路标题\":\">&&<\",
     \"播放链接\":\"href='&&'\",
     \"分类url\":\"http://www.xingchenju.com/{cateId}/index{catePg}.html[http://www.xingchenju.com/{cateId}/index.html];;ak\",
-    \"分类\":\"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman\"},
+    \"分类\":\"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman\"}
+    },
 {
     "key":"csp_XBPQ_NAKAN",
     "name":"🤡耐看",
