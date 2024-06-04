@@ -3,7 +3,6 @@
 "sites":[
 {"key":"热播","name":"📺热播","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"csp_XBPQ_ccccc","name":"🎠策驰","type":3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/CC.json"},
-{"key":"csp_XBPQ_CZCZ","name":"🏠CZ","type":3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/CZ.json"},
 {"key":"drpyVOFLIX","name":"🏠VOFLIX","type":3,"api":"./lib/apiv39drpy2.min.js","ext":"./lib/voflix.js"},
 {"key":"sliu_spider","name":"石榴","jar":"./lib/fix240524.jar;md5;52a7187a09053f22828cc9ca829b1b73","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},
 {"key": "csp_Vidhub2","name": "🎼Vid","type": 3,"jar":"./lib/62c64a48bd009f9391e7dcd6bd3cf989.jar;md5;62c64a48bd009f9391e7dcd6bd3cf989","api": "csp_Vidhub2","searchable": 1,"quickSearch": 1,"filterable": 1},
