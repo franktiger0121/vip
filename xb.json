@@ -21,6 +21,7 @@
 "线路标题":">&&<[替换:『*』>>空#：>>空]",
 "播放数组":"</h2><ul>&&</ul>"
 }},
+{"key":"AUETE22","name":"🐯奥特22","type":3,"api":"csp_XBPQ","ext":{"线路数组":"<iclass=\"icon-film\">&&small>","分类":"电影$Movie#电视剧$Tv#综艺$Zy#动漫$Dm#其他$qita","分类url":"https://auete.com/{cateId}{class}/index{catePg}.html[https://auete.com/{cateId}/index.html]"}},
 {"key":"APP","name":"🐯AP","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{
 "主页url":"https://www.appmovie.art",
 "数组":"stui-vodlist__item\">&&</li>",
