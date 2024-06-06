@@ -1,5 +1,26 @@
 {"spider":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 "sites":[
+{"key":"AUETE","name":"🐯奥特","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{
+"主页url":"https://auete.com",
+"分类":"电影$Movie#电视剧$Tv#综艺$Zy#动漫$Dm#其他$qita",
+"分类url":"https://auete.com/{cateId}{class}/index{catePg}.html[https://auete.com/{cateId}/index.html]",
+"数组":"<liclass=\"trans_3&&/button>",
+"副标题":"hdtag\">&&<",
+"搜索模式":"1",
+"搜索url":"/aueteso.php?searchword={wd}",
+"搜索数组":"mb-0\">&&</a>",
+"搜索图片":"空",
+"搜索标题":"text-danger\">&&<",
+"搜索链接":"data-href=\"&&\"",
+"影片地区":"地区:&&</p>",
+"影片类型":"分类:&&</p>",
+"导演":"导演:&&</p>",
+"主演":"主演:&&</p>",
+"简介":"</a><p>&&</p>",
+"线路数组":"<iclass=\"icon-film\">&&small>",
+"线路标题":">&&<[替换:『*』>>空#：>>空]",
+"播放数组":"</h2><ul>&&</ul>"
+}},
 {"key":"APP","name":"🐯AP","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{
 "主页url":"https://www.appmovie.art",
 "数组":"stui-vodlist__item\">&&</li>",
