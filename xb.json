@@ -1,6 +1,6 @@
 {"spider":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 "sites":[
-{"key":"FENGGOU","name":"🐯疯狗","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{
+{"key":"FENGGOU22","name":"🐯疯狗22","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{
 "主页url":"https://www.fenggoudy3.com",
 "数组":"<div class=\"v_pic\">&&</li>",
 "图片":"data-src=\"&&\"",
@@ -30,6 +30,7 @@
 "分类值":"1&2&3&4",
 "分类url":"https://www.fenggoudy3.com/list-select-id-{cateId}-type-{class}-area-{area}-year-{year}-star--state--order-{by}-p-{catePg}.html"
 }},
+{"key":"FENGGOU","name":"🐯疯狗","type":3,"api":"csp_XBPQ","ext":{"分类":"电影$1#电视剧$2#动漫$3#综艺$4","分类url":"https://www.fenggoudy3.com/list-select-id-{cateId}-type-{class}-area-{area}-year-{year}-star--state--order-{by}-p-{catePg}.html"}},
 {"key":"YSGC","name":"🐯工场","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{
 "主页url":"https://www.ysgc.fun",
 "分类url":"https://www.ysgc.fun/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
