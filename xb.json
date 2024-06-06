@@ -31,7 +31,7 @@
 "分类":"电影$1#剧集$2#综艺$3#动漫$4",
 "分类url":"https://www.ikan6.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/"
 }},
-{"key":"IKAN","name":"🐯IKAN","type":3,"api":"csp_XBPQ","ext":{"线路数组":"<ul class=\"nav nav-tabs&&</ul>","分类":"电影$1#剧集$2#综艺$3#动漫$4","分类url":"https://www.ikan6.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/}},
+{"key":"IKAN","name":"🐯IKAN","type":3,"api":"csp_XBPQ","ext":{"线路数组":"<ul class=\"nav nav-tabs&&</ul>","分类":"电影$1#剧集$2#综艺$3#动漫$4","分类url":"https://www.ikan6.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/"}},
 {"key":"KANKAN","name":"🐯看看","type":3,"api":"csp_XBPQ","ext":{"线路数组":"data-dropdown-value=&&</div>","分类url":"https://www.4k4k.live/vodshow/area/{area}/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html","分类":"电影$20#电视剧$21#综艺$22#动漫$23#体育$52"}},
 {"key":"KUAIKAN","name":"🤡快看","type":3,"api":"csp_XBPQ","ext":{"线路数组":"<span&&/span>","分类url":"https://www.kuaikanys.net/s/{cateId}/page/{catePg}.html","分类":"电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman"}},
 {"key":"SHIJUE","name":"👓视觉","type":3,"api":"csp_XBPQ","ext":{"线路数组":"data-dropdown-value=&&</div>","分类":"电影$1#电视剧$2#综艺$3#动漫$4","分类url":"https://www.6080yy3.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"}},
