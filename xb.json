@@ -1,6 +1,69 @@
 {"spider":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 "sites":[
-{"key":"INMI","name":"🤡映迷","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"主页url":"https://www.inmi.app/","简介":"<p&&</p>","导演":"导演：&&</div>","主演":"主演：&&</div>","影片状态":"集数：&&</div>","影片类型":"module-info-tag\">&&立即播放","搜索模式":"1","搜索url":"https://www.inmi.app/search/-------------.html?wd={wd}","搜索数组":"module-card-item-class\">&&</a>","搜索标题":"alt=\"&&\"","搜索副标题":"note\">&&</div>","搜索图片":"data-original=\"&&\"","搜索链接":"href=\"&&\"","线路数组":"data-dropdown-value=&&</div>","线路标题":"<span>&&</small>","分类":"电影$u#电视剧$0#动漫$H#综艺$P#短剧$t","分类url":"https://www.inmi.app/show/{cateId}CCCCS-.html"}},
+{"key":"KUAIKAN","name":"🤡快看","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{
+"主页url":"https://www.kuaikanys.net/",
+"数组":"tu\">&&</div>",
+"图片":"img src=\"&&\"",
+"标题":"title=\"&&\"",
+"链接":"href=\"&&\"",
+"副标题":"<span class=\"score\">&&</span>",
+"线路二次截取":"<div class=\"play\">&&</div>",
+"线路数组":"<span&&/span>",
+"线路标题":">&&<",
+"搜索模式": "0",
+"搜索数组": "tu\">&&</div>",
+"搜索图片": "img src=\"&&\"",
+"搜索标题": "alt=\"&&\"",
+"搜索链接": "href=\"&&\"",
+"搜索后缀":"/v/",
+"播放二次截取":"<div class=\"playlist\">&&</div>",
+"播放数组":"<ul>&&</ul>",
+"影片地区":"地区：&&</p>",
+"影片年代":"年份：&&</p>",
+"影片类型":"类型：&&</p>",
+"导演":"<div class=\"title\"&&</div>",
+"主演":"主演：&&</li>",
+"简介":"剧情介绍：&&</span>",
+"列表二次截取":"",
+"播放列表":"<a&&/a>",
+"播放标题":">&&<",
+"播放链接":"href=\"&&\"",
+"免嗅":"1",
+"分类url":"https://www.kuaikanys.net/s/{cateId}/page/{catePg}.html",
+"分类":"电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman",
+"筛选":{
+"dianying":[
+{
+"key":"cateId",
+"name":"类型",
+"value":[
+{"n":"全部","v":""},
+{"n":"动作片","v":"dongzuopian"},
+{"n":"喜剧片","v":"xijupian"},
+{"n":"爱情片","v":"aiqingpian"},
+{"n":"科幻片","v":"kehuanpian"},
+{"n":"恐怖片","v":"kongbupian"},
+{"n":"剧情片","v":"juqingpian"},
+{"n":"战争片","v":"zhanzhengpian"}
+]
+}
+],
+"lianxuju":[
+{
+"key":"cateId",
+"name":"类型",
+"value":[
+{"n":"全部","v":""},
+{"n":"国产剧","v":"guochanju"},
+{"n":"港台剧","v":"gangtaiju"},
+{"n":"日韩剧","v":"rihanju"},
+{"n":"欧美剧","v":"oumeiju"},
+{"n":"其他剧","v":"qitaju"}
+]
+}
+]
+}
+}},
 {"key":"SHIJUE","name":"👓视觉","type":3,"api":"csp_XBPQ","ext":{"线路数组":"data-dropdown-value=&&</div>","分类":"电影$1#电视剧$2#综艺$3#动漫$4","分类url":"https://www.6080yy3.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"}},
 {"key":"PANGHU","name":"🐯胖虎","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"主页url":"https://www.physvod.com/","简介":"<p&&</p>","导演":"导演：&&</div>","主演":"主演：&&</div>","影片状态":"集数：&&</div>","影片类型":"module-info-tag\">&&立即播放","搜索模式":"1","搜索url":"https://www.physvod.com/phsch.html?wd={wd}","搜索数组":"module-card-item-class\">&&</a>",
 "搜索标题":"alt=\"&&\"","搜索副标题":"note\">&&</div>","搜索图片":"data-original=\"&&\"","搜索链接":"href=\"&&\"","线路数组":"data-dropdown-value=&&</div>","线路标题":"<span>&&</small>","分类":"电影$1#剧集$2#综艺$3#动漫$4","分类url":"http://www.physvod.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html"}},
