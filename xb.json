@@ -1,6 +1,6 @@
 {"spider":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 "sites":[
-{"key":"CHENLUO","name":"🐯尘落","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{
+{"key":"CHENLUO22","name":"🐯尘落22","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{
 "homeUrl": "https://v.zzdacou.com/",
   "cateNode": "//ul[@class='nav navbar-nav']/li/a[contains(@href,'whole') and not(contains(@href, '5'))]",
   "cateName": "/text()",
@@ -61,6 +61,7 @@
   "scVodImg": "/a/img/@src",
   "scVodMark": "/a/span/text()"
 }},
+{"key":"CHENLUO","name":"🐯尘落","type":3,"api":"csp_XBPQ","ext":{"线路数组":"<iclass=\"icon-film\">&&small>","分类":"电影$1#电视剧$2#动漫$3#综艺$4","分类url":"https://v.zzdacou.com/whole/{cateId}_______0_addtime_{catePg}.html"}},
 {"key":"DADA","name":"🐯达达","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{
 "主页url":"http://www.dadagui.me/",
 "副标题":"pic-texttext-right\">&&</b>",
