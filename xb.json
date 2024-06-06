@@ -1,6 +1,6 @@
 {"spider":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 "sites":[
-{"key":"IKAN22","name":"🐯IKA2N","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{
+{"key":"BUXIU","name":"🐯BUXIU","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{
 "主页url":"https://www.bxiutv.com",
 "数组":"<div class=\"stui-vodlist__box\">&&</div>",
 "图片":"data-original=\"&&\"",
