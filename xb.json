@@ -61,7 +61,7 @@
   "scVodImg": "/a/img/@src",
   "scVodMark": "/a/span/text()"
 }},
-{"key":"CHENLUO","name":"🐯尘落","type":3,"api":"csp_XBPQ","ext":{"线路数组":"<iclass=\"icon-film\">&&small>","分类":"电影$1#电视剧$2#动漫$3#综艺$4","分类url":"https://v.zzdacou.com/whole/{cateId}_______0_addtime_{catePg}.html"}},
+{"key":"CHENLUO","name":"🐯尘落","type":3,"api":"csp_XBPQ","ext":{"分类":"电影$1#电视剧$2#动漫$3#综艺$4","分类url":"https://v.zzdacou.com/whole/{cateId}_______0_addtime_{catePg}.html"}},
 {"key":"DADA","name":"🐯达达","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{
 "主页url":"http://www.dadagui.me/",
 "副标题":"pic-texttext-right\">&&</b>",
