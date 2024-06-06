@@ -7,7 +7,7 @@
 "标题":"title=\"&&\"",
 "副标题":"class=\"module-item-note\">&&</div>",
 "链接":"href=\"&&\"",
-"搜索url":"https://www.ecmys.top/vod/search/?wd={wd}",
+"搜索url":"https://www.ecmys.top/vod/search/page/{pg}/wd/{wd}/",
 "搜索模式":"1",
 "搜索二次截取":"class=\"module-items&&id=\"page",
 "搜索数组":"<a&&</strong>",
