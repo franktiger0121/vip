@@ -7,6 +7,7 @@
 {"key":"drpyVOFLIX","name":"🏠VOFLIX","type":3,"api":"./lib/apiv39drpy2.min.js","ext":"./lib/voflix.js"},
 {"key":"sliu_spider","name":"石榴","jar":"./lib/fix240524.jar;md5;52a7187a09053f22828cc9ca829b1b73","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},
 {"key": "csp_Vidhub2","name": "🎼Vid","type": 3,"jar":"./lib/62c64a48bd009f9391e7dcd6bd3cf989.jar;md5;62c64a48bd009f9391e7dcd6bd3cf989","api": "csp_Vidhub2","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "555yingshi","name":"😺555","type":3,"jar":"./lib/jar.php;md5;4642bf29455e1bbc92414086532ff5b3","api":"csp_XBPQ","ext": {"分类":"电影$1#电视剧$2#动漫$4","分类url":"https://5moov.vip/vodshow/{cateId}--------{catePg}---.html"}},
 {"key":"drpy_js","name":"💢厂长","type":3,"api":"./lib/apiv39drpy2.min.js","ext":"./lib/czspp.txt"},
 {"key":"糯米","name":"🍙糯米","type":3,"api":"csp_Nmys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/nmys.json"},
 {"key":"追剧","name":"🎀追剧","type":3,"jar":"./lib/jar.php;md5;4642bf29455e1bbc92414086532ff5b3","api":"csp_TTian","ext":"http://app.kzjtv.com/"},
