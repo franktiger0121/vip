@@ -2,7 +2,9 @@
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 {"key":"热播","name":"📺热播","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
-
+{"key":"LUOBO","name":"🥕萝卜🌜","type":3,"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","ext":{"线路数组":"<li><a href=&&/a>[替换:首页>>线一#电影>>VIP#电视剧>>线三#综艺>>线四#动漫>>线五]","分类":"电影$1#电视剧$2#动漫$4#综艺$3","分类url":"http://www.pg8090.com/show/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"}},
+{"key":"天天影视","name":"👻天天🌜","type":3,"jar":"./lib/jar.php;md5;4642bf29455e1bbc92414086532ff5b3","api":"csp_TTian","ext":"http://op.ysdqjs.cn"},
+{"key":"热播2","name":"📺热播🌜","type":3,"jar":"./lib/jar.php;md5;4642bf29455e1bbc92414086532ff5b3","api":"csp_TTian","ext":"http://v.rbotv.cn/"},
 {"key": "韩剧","name": "🐶韩剧","type": 3,"changeable": 1,"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api": "csp_XBPQ","playerType": "1","ext": {"主页url":"https://hanju2.yingdouw.com/","分类":"韩剧$1#电影$2#美剧$26#日剧$27#动漫$28#国产剧$29#泰剧$30","分类url":"https://hanju2.yingdouw.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area=&year={year}&letter=&yuyan=&state=&money=&ver=&jq={class};;ak","数组":"class=\"col-xs-3\">&&</li>","搜索模式":"1","搜索url":"https://hanju2.yingdouw.com/search.php;post;searchword={wd}","线路数组":"class=\"stui-pannel__head clearfix\">&&</div>"}},
 {"key": "csp_桵空影院","name": "🌸桵空","type": 3,"jar":"./lib/jar.php;md5;4642bf29455e1bbc92414086532ff5b3","api": "csp_XBPQ","ext": {"分类url": "https://www.maigo.cc/vodshow/{cateId}---{class}-----{catePg}---{year}/","分类": "电影$84#综艺$91#大陆剧$81#港台剧$82#海外剧$83#纪录片$88#动漫$1#日剧$32#日漫$46#国漫$47#美漫$85"}},
 {"key":"快看影视","name":"👾快看","type":3,"jar":"./lib/jar.php;md5;4642bf29455e1bbc92414086532ff5b3","api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
