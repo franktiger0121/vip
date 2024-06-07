@@ -5,7 +5,7 @@
 {"key":"玩偶","name":"👑玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k","siteUrl":"https://www.wogg.link/"}},
 {
     "key":"csp_XBPQ_NAKAN",
-    "name":"🤡耐看",
+    "name":"🤡耐看⭐",
     "type":3,
     "jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
     "api":"csp_XBPQ",
