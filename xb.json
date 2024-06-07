@@ -2,7 +2,7 @@
 "sites":[
 {"key":"DOUJIAO","name":"🐯豆角","type":3,"api":"csp_XBPQ","ext":{"线路数组":"<span&&/span>","分类":"电视剧$2#电影$1#视频大全$25#动漫$4#综艺$3",
 "分类url":"https://m.doujiaow5.com/index.php?m=vod-list-id-{cateId}}-pg-{catePg}-order--by-{by}-class-{class}-year-{year}-letter--area-{area}-lang-.html"}},
-{"key":"APPLE","name":"🐯苹果","type":3,"api":"csp_XBPQ","ext":{"线路数组":"<li><a href=&&/a>[替换:首页>>线一#电影>>VIP#电视剧>>线三#综艺>>线四#动漫>>线五,排序:VIP>第二>第三>第四>第五]","分类":"电影$1#电视剧$2#动漫$4#综艺$3","分类url":"http://www.pg8090.com/show/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"}},
+{"key":"APPLE","name":"🐯苹果","type":3,"api":"csp_XBPQ","ext":{"线路数组":"<li><a href=&&/a>[替换:首页>>线一#电影>>VIP#电视剧>>线三#综艺>>线四#动漫>>线五;排序:VIP>第二>第三>第四>第五]","分类":"电影$1#电视剧$2#动漫$4#综艺$3","分类url":"http://www.pg8090.com/show/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"}},
 {"key":"JIUXIA","name":"🐯秋霞","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{
 "主页url":"https://www.7xiady.cc/",
 "数组":"<a class=\"stui-vodlist__thumb&&</a>",
