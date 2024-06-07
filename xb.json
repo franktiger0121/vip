@@ -155,7 +155,7 @@
 "分类url":"https://www.bkyb.net/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 "分类":"电影$1#连续剧$2#综艺$3#动漫$4"}},
 {"key":"CHENLUO","name":"🐯尘落","type":3,"api":"csp_XBPQ","ext":{"分类":"电影$1#电视剧$2#动漫$3#综艺$4","分类url":"https://v.zzdacou.com/whole/{cateId}_______0_addtime_{catePg}.html"}},
-{"key":"DADA","name":"🐯达达","type":3,"api":"csp_XBPQ","ext":{"线路数组":"class=\"stui-vodlist__head&&</h4>[替换:高速云播6第01集>>VIP]","线路标题":"\">&&</span>[排序:第一>VIP>第三]","分类":"电影$1#连续剧$2#综艺$3#动漫$4","分类url":"http://www.dadagui.me/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"}},
+{"key":"DADA","name":"🐯达达","type":3,"api":"csp_XBPQ","ext":{"线路数组":"class=\"stui-vodlist__head&&</h4>[排序:第一>高速云播6第01集>第三]","线路标题":"\">&&</span>[替换:高速云播6第01集>>VIP]","分类":"电影$1#连续剧$2#综艺$3#动漫$4","分类url":"http://www.dadagui.me/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"}},
 {"key":"ERMENG","name":"🐯二萌","type":3,"api":"csp_XBPQ","ext":{"线路数组":"data-dropdown-value=&&</div>","分类":"电影$1#电视剧$2#综艺$3#动漫$4","分类url":"https://www.ecmys.top/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}/;;v"}},
 {"key":"JUMI","name":"🐯剧迷","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{
 "主页url":"https://gimy.tv/",
