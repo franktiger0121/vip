@@ -8,7 +8,7 @@
 {"key":"XPG","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"SHIJUE","name":"👓视觉","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/"},
 {"key":"zxzj","name":"🍊在线","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
-{"key": "zhitiao","name": "👑易搜","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "tvfan/token.txt$$$satoken=e96da071-9159-4827-89e1-ea93eea899e1"},
+{"key": "zhitiao","name": "👑易搜","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"changeable": 0,"ext":{"aliToken":"tvfan/token.txt","from":"4k"}},
 {"key":"PanSearch","name":"👑盘Se","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext": {"aliToken":"tvfan/token.txt","from":"4k"}},
 {"key":"NEW6V","name":"🧲影港","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "https://www.xb6v.com/"},
 {"key":"iKun","name":"🐤爱坤","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","泰国剧","欧美剧","海外剧","香港剧","台湾剧","日本剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","记录片","短片","动画片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日本动漫"]},
