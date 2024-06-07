@@ -3,16 +3,16 @@
 "sites":[
 {"key":"DAOHANG","name":"🌈导航","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"WANOU","name":"👑玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k","siteUrl":"https://www.wogg.link/"}},
-{
-    "key":"csp_XBPQ_NAKAN",
-    "name":"🤡耐看",
-    "type":3,
-    "jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
-    "api":"csp_XBPQ",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":0,
-    "ext":"{
+{"key":"BTTWO","name":"🍄比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"KUKAN","name":"👹酷看","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"XPG","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"SHIJUE","name":"👓视觉","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/"},
+{"key":"zxzj","name":"🍊在线","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
+{"key": "zhitiao","name": "👑易搜","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "tvfan/token.txt$$$satoken=e96da071-9159-4827-89e1-ea93eea899e1"},
+{"key":"PanSearch","name":"👑盘Se","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext": {"aliToken":"tvfan/token.txt","from":"4k"}},
+{"key":"NEW6V","name":"🧲影港","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "https://www.xb6v.com/"},
+{"key":"iKun","name":"🐤爱坤","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","泰国剧","欧美剧","海外剧","香港剧","台湾剧","日本剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","记录片","短片","动画片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日本动漫"]},
+{"key":"csp_XBPQ_NAKAN","name":"🤡耐看","type":3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{
     \"主演\":\"主演：&&</div>\",
     \"简介\":\"class=\\\"module-info-introduction-content show-desc\\\"*<p>&&</div>\",
     \"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
@@ -23,18 +23,8 @@
     \"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",
     \"分类url\":\"https://lkvod.us/show/{cateId}--{by}------{catePg}---{year}.html;;ak\"}"},
 {"key":"csp_XBPQ_XC","name":"⭐星辰","type":3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"主页url":"http://www.xingchenju.com/","简介":"<span class=\"detail-sketch\">&&</span>","导演":"导演：&&</p>","主演":"主演：&&</p>","影片状态":"状态：&&</p>","影片类型":"类型：&&</p>","数组":"stui-vodlist__thumb lazyload\"&&</a>","标题":"title=\"&&\"","副标题":"text-right\">&&</span>","图片":"data-original=\"&&\"","链接":"href=\"&&\"","搜索url":"http://www.xingchenju.com/search.php;post;searchword={wd}","搜索数组":"stui-vodlist__thumb lazyload\"&&</a>","搜索标题":"title=\"&&\"","搜索副标题":"text-right\">&&</span>","搜索图片":"data-original=\"&&\"","搜索链接":"href=\"&&\"","线路数组":"<h3&&/h3>","线路标题":">&&<","播放链接":"href='&&'","分类url":"http://www.xingchenju.com/{cateId}/index{catePg}.html[http://www.xingchenju.com/{cateId}/index.html];;ak","分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}},
-{"key":"BTTWO","name":"🍄比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"KUKAN","name":"👹酷看","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"XPG","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"SHIJUE","name":"👓视觉","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/"},
-{"key":"zxzj","name":"🍊在线","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
 {"key":"PIANBA","name":"🤖片吧","type":3,"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","ext":{"线路数组":"class=\"stui-vodlist__head&&</h4>[排序:乐视云播>第二>第三>第四>第五]","线路标题":"\">&&</span>","分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$3#综艺$4"}},
 {"key":"HEMA","name":"💌河马","type":3,"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","ext":{"线路数组":"class=\"stui-vodlist__head&&</h4>","线路标题":"\">&&</span>[排序:乐视资源>第二>第三>第四>第五]","分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影&电视剧&动漫&综艺","分类值": "1&2&3&4"}},
-{"key": "zhitiao","name": "👑易搜","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "tvfan/token.txt$$$satoken=e96da071-9159-4827-89e1-ea93eea899e1"},
-{"key":"PanSearch","name":"👑盘Se","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext": {"aliToken":"tvfan/token.txt","from":"4k"}},
-{"key":"NEW6V","name":"🧲影港","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "https://www.xb6v.com/"},
-{"key":"JIANPIAN","name":"🧲荐片","type":3,"api":"./lib/apiv39drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/JP.js"},
-{"key": "cspJuqq","name": "⭕剧圈","type": 3,"jar":"./lib/xmmmmm.jar;md5;b6def02ec13662a8739d9f80f1f42e89","api": "csp_Juqq","playerType": "2"},
 {"key":"YUNBO","name":"💖云播","type":3,"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{
 "主页url":"http://www.tvyb03.com/",
 "数组":"class=\"myui-vodlist__box\">&&</div>",
@@ -56,8 +46,7 @@
 "播放链接":"href=\"&&\"",
 "免嗅":"1",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
-"分类url":"http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"
-}},
+"分类url":"http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"}},
 {"key":"AIKAN","name":"🦁爱看","type":3,"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"主演\":\"主演：&&</div>\",\"简介\":\"class=\\\"module-info-introduction-content show-desc\\\"*<p>&&</div>\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>[排序:自建>蓝光1>超清-01>第四>第五]\",\"线路标题\":\"<span>&&</small>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",\"分类url\":\"https://www.92kyy.com/vodshow/{cateId}--------{catePg}---.html\"}"},
 {"key":"CHANGZHANG","name":"🏭厂长","type":3,"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"主页url":"https://czzy.top/","数组":"<li>&&</li>","图片":"data-original=\"&&\"","标题":"alt=\"&&\"","链接":"href=\"&&\"","副标题":"span>&&</span>","搜索模式":"1","搜索url":"https://czzy.top/daoyongjiekoshibushiyoubing?q={wd}&f=_all&p={pg}","搜索数组":"<li>&&</li>","搜索图片":"data-original=\"&&\"","搜索标题":"alt=\"&&\"","搜索副标题":"jidi\"><span>&&</span>","搜索链接":"href=\"&&\"","影片年代":"年份：&&</li>","影片地区":"地区：&&</li>","影片类型":"类型：&&</li>","导演":"导演：&&</li>","主演":"主演：&&</li>","简介":"<p>&&</p>","线路数组":"<div class=\"mi_paly_box\">&&</div>","线路标题":"<span>&&</span>[替换:在线观看>>播放列表]","播放数组":"<div class=\"paly_list_btn\">&&</div>","播放列表":"<a&&/a>","播放标题":">&&<[替换:立即播放>>空]","播放链接":"href=\"&&\"","分类url":"https://czzy.top/{cateId}/page/{catePg}","分类": "电影$zuixindianying#电视剧$dsj#国产剧$gcj#韩剧$hanjutv#美剧$meijutt#番剧$fanju#动画电影$dongmanjuchangban"}},
 {"key":"DADA","name":"🐢达达","type":3,"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","ext":{"线路数组":"class=\"stui-vodlist__head&&</h4>[替换:高速云播6第01集>>VIP#量子云播第01集>>VIP线路]","分类":"电影$1#连续剧$2#综艺$3#动漫$4","分类url":"http://www.dadagui.me/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"}},
@@ -79,19 +68,8 @@
   "简介": "<p>&&</p>",
 "线路数组": "data-dropdown-value=&&</div>[排序:lggys>蓝光NO.1>第三>第四]",
   "线路标题":"<span>&&</small>[不包含:.com]",
-"播放数组": "module-play-list\">&&</div>"
-}},
-        {
-			"key": "HEIHU",
-			"name": "🦊黑狐",
-			"type": 3,
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
-			"playerType": "2",
-			"api": "csp_XBPQ",
-			"ext": {
+"播放数组": "module-play-list\">&&</div>"}},
+{"key": "HEIHU","name": "🦊黑狐","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","playerType": "2","api": "csp_XBPQ","ext": {
 				"主页url": "http://fagmn.com",
 				"数组": "class=\"stui-vodlist__box\"&&</a",
 				"图片": "data-original=\"&&\"",
@@ -120,16 +98,8 @@
 				"播放链接": "href=\"&&\"",
 				"免嗅": "0",
 				"分类": "电影$1#电视剧$2#动漫$3#综艺$4",
-				"分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
-			}
-		},
-		{
-			"key": "DANDAN",
-			"name": "🐣蛋蛋",
-			"type": 3,
-			"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
-			"api": "csp_XBPQ",
-			"ext": {
+				"分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"}},
+{"key": "DANDAN","name": "🐣蛋蛋","type": 3,"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api": "csp_XBPQ","ext": {
 				"嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
 				"请求头": "手机#Referer$https://www.dandanju.cc/",
 				"分类url": "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html",
@@ -137,18 +107,8 @@
                 "数组": " <li class=\"col-md-6 col-sm-4 col-xs-3&&</li",
 				"搜索模式": "1",
 				"搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html",
-				"搜索数组": "<li class=\"active clearfix&&</li"
-			}
-		},
-		{
-			"key": "QIYI",
-			"name": "🦌奇优",
-			"type": 3,
-			"changeable": 1,
-			"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
-			"api": "csp_XBPQ",
-			"playerType": "1",
-			"ext": {
+				"搜索数组": "<li class=\"active clearfix&&</li"}},
+{"key": "QIYI","name": "🦌奇优","type": 3,"changeable": 1,"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api": "csp_XBPQ","playerType": "1","ext": {
 			"主页url":"http://www.qiyoudy1.com",
 			"数组":"<div class=\"stui-vodlist__box\">&&</div>",
 			"图片":"data-original=\"&&\"",
@@ -178,9 +138,7 @@
 			"播放链接前缀":"http://www.qiyoudy1.com",
 			"嗅探词":".m3u8#.mp4#.flv#.mp3#.m4a",
 			"分类url":"http://www.qiyoudy1.com/list/{cateId}_{catePg}.html?order={by}",
-			"分类":"电影$1#电视剧$2#动漫$3#综艺$4"
-			}
-		},
-{"key":"iKun","name":"🐤爱坤","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","泰国剧","欧美剧","海外剧","香港剧","台湾剧","日本剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","记录片","短片","动画片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日本动漫"]}],
-"doh":[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
-"lives":{"name":"live","type":0,"url":"./lib/live.txt","playerType":1}}
+			"分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
+{"key":"JIANPIAN","name":"🧲荐片","type":3,"api":"./lib/apiv39drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/JP.js"},
+{"key": "cspJuqq","name": "⭕剧圈","type": 3,"jar":"./lib/xmmmmm.jar;md5;b6def02ec13662a8739d9f80f1f42e89","api": "csp_Juqq","playerType": "2"}],
+"doh":[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],"lives":{"name":"live","type":0,"url":"./lib/live.txt","playerType":1}}
