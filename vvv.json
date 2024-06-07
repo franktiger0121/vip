@@ -1,4 +1,4 @@
-﻿{	"spider": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
+{	"spider": "./lib/YS.jar",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"sites":[
 {"key":"csp_DouDou","name":"🌈影视导航","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
