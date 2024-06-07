@@ -12,6 +12,7 @@
 {"key":"PanSearch","name":"👑盘Se","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext": {"aliToken":"tvfan/token.txt","from":"4k"}},
 {"key":"NEW6V","name":"🧲影港","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "https://www.xb6v.com/"},
 {"key":"iKun","name":"🐤爱坤","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","泰国剧","欧美剧","海外剧","香港剧","台湾剧","日本剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","记录片","短片","动画片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日本动漫"]},
+{"key":"jqqxbpq","name":"🌙剧圈圈","type":3,"api":"csp_XBPQ","jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","ext":{"分类url":"https://www.jqqzx.cc/vodshow/id/{cateId}/page/{catePg}.html","分类":"电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman"}},
 {"key":"csp_XBPQ_NAKAN","name":"🤡耐看","type":3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{
     \"主演\":\"主演：&&</div>\",
     \"简介\":\"class=\\\"module-info-introduction-content show-desc\\\"*<p>&&</div>\",
