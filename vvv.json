@@ -2,17 +2,28 @@
 "spider": "./jar/lltv.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
 
 "sites":[ 
-//短剧~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_49",
-      "name": "短剧┃01",
-      "type": 1,
-      "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
+      "key": "lltv_LS",
+      "name":"LS",
+      "type":1,
+      "api":"https://leshiapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "短剧"
+        "国产剧"
+      ]
+    },
+        {
+      "key": "lltv_LS22",
+      "name":"LS22",
+      "type":1,
+      "api":"https://leshiapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧"
       ]
     },
     {
