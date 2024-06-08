@@ -1,4 +1,4 @@
-{"spider":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
+{"spider":"./lib/XBPQ.jar",
 "sites":[
 {"key":"DOUJIAO","name":"🐯豆角","type":3,"api":"csp_XBPQ","ext":{"线路数组":"<span&&/span>","分类":"电视剧$2#电影$1#视频大全$25#动漫$4#综艺$3",
 "分类url":"https://m.doujiaow5.com/index.php?m=vod-list-id-{cateId}}-pg-{catePg}-order--by-{by}-class-{class}-year-{year}-letter--area-{area}-lang-.html"}},
