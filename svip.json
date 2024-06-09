@@ -2,7 +2,6 @@
 "wallpaper":"http://tv.nxog.top/m/t/img/10.jpg",
 "sites":[
 {"key":"DAOHANG","name":"🌈导航","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key":"jqqxbpq","name":"⭕剧圈","type":3,"api":"csp_XBPQ","jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","ext":{"分类url":"https://www.jqqzx.cc/vodshow/id/{cateId}/page/{catePg}.html","分类":"电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman"}},
 {"key":"csp_XBPQ_NAKAN","name":"🤡耐看","type":3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{
     \"主演\":\"主演：&&</div>\",
     \"简介\":\"class=\\\"module-info-introduction-content show-desc\\\"*<p>&&</div>\",
@@ -45,6 +44,7 @@
 				"免嗅": "0",
 				"分类": "电影$1#电视剧$2#动漫$3#综艺$4",
 				"分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"}},
+{"key":"jqqxbpq","name":"⭕剧圈","type":3,"api":"csp_XBPQ","jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","ext":{"分类url":"https://www.jqqzx.cc/vodshow/id/{cateId}/page/{catePg}.html","分类":"电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman"}},
 {"key":"JIANPIAN","name":"🧲荐片","type":3,"api":"./lib/apiv39drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/JP.js"},
 {"key":"WANOU","name":"👑玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k","siteUrl":"https://www.wogg.link/"}},
 {"key":"BTTWO","name":"🍄比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
