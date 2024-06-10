@@ -2,7 +2,6 @@
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 {"key":"热播","name":"📺热播","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
-
 {"key": "cspJuqq","name": "⭕剧圈","type": 3,"jar":"./lib/xmmmmm.jar;md5;b6def02ec13662a8739d9f80f1f42e89","api": "csp_Juqq","playerType": "2"},
 {"key": "YUNBO","name": "💖云播","type": 3,"jar":"./lib/xmmmmm.jar;md5;b6def02ec13662a8739d9f80f1f42e89","api": "csp_Tvyb","searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key":"LUOBO","name":"🥕萝卜🌜","type":3,"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","ext":{"线路数组":"<li><a href=&&/a>[替换:首页>>线一#电影>>VIP#电视剧>>线三#综艺>>线四#动漫>>线五]","分类":"电影$1#电视剧$2#动漫$4#综艺$3","分类url":"http://www.pg8090.com/show/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"}},
@@ -171,7 +170,7 @@
 		},
 {"key":"南瓜","name":"🎃南瓜","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key": "影探VIP","name": "🍥影探","type": 3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms-ytmh.lyyytv.cn/api.php/app/"},
-{"key":"AIKAN","name":"👓爱看","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.92kyy.com/"},
+{"key":"AIKAN","name":"🦁爱看","type":3,"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>[排序:自建>蓝光1>超清-01>第四>第五]\",\"线路标题\":\"<span>&&</small>\",\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",\"分类url\":\"https://www.92kyy.com/vodshow/{cateId}--------{catePg}---.html\"}"},
 {
       "key": "cjzy_快看",
       "name": "👁️‍🗨️快看",
