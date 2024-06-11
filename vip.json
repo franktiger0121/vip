@@ -2,6 +2,7 @@
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 {"key":"热播","name":"📺热播","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
+{"key":"iKun","name":"🐤爱坤","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","泰国剧","欧美剧","海外剧","香港剧","台湾剧","日本剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","记录片","短片","动画片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日本动漫"]},
 {"key": "cspJuqq","name": "⭕剧圈","type": 3,"jar":"./lib/xmmmmm.jar;md5;b6def02ec13662a8739d9f80f1f42e89","api": "csp_Juqq","playerType": "2"},
 {"key": "YUNBO","name": "💖云播","type": 3,"jar":"./lib/xmmmmm.jar;md5;b6def02ec13662a8739d9f80f1f42e89","api": "csp_Tvyb","searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key":"LUOBO","name":"🥕萝卜🌜","type":3,"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","ext":{"线路数组":"<li><a href=&&/a>[替换:首页>>线一#电影>>VIP#电视剧>>线三#综艺>>线四#动漫>>线五]","分类":"电影$1#电视剧$2#动漫$4#综艺$3","分类url":"http://www.pg8090.com/show/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"}},
