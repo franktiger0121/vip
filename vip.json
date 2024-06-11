@@ -3,14 +3,7 @@
 "sites":[
 {"key":"热播","name":"📺热播","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"csp_XBPQ_dudu30","name":"🌙嘟嘟","type":3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"线路数组\":\"playerico ico-Azhan&&/li>[排序:线路2>线路1]\",\"线路标题\":\"</i>&&<\",\"分类\":\"电影$1#电视剧$2#国产剧$12#港剧$21#综艺$31#动漫$26\",\"分类url\":\"http://www.dudu30.com/?m=vod-type-id-{cateId}-pg-{catePg}.html\"}"},
-{"key":"ZZYS","name": "🌙子子","type": 3,"api": "csp_XBPQ","jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"线路数组":"data-dropdown-value=&&</div>",    
-        "线路标题":"<span>&&</small>",    
-        "播放数组":"<div class=\"sort-item\"&&</div>",
-        "播放列表":"<a&&</a>",    
-        "播放标题":"<span>&&</span>",    
-        "播放链接":"href=\"&&\"",        
-        "分类url":"https://www.ziziys.com/list/{cateId}-{catePg}.html;;ak",    
-        "分类":"电影$1#国产剧$13#动漫$3#美剧$14#日韩剧$15"}},
+{"key":"ZZYS","name": "🌙子子","type": 3,"api": "csp_XBPQ","jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"线路数组":"data-dropdown-value=&&</div>[排序:高速>高速蓝光]","线路标题":"<span>&&</small>","播放数组":"<div class=\"sort-item\"&&</div>","播放列表":"<a&&</a>","播放标题":"<span>&&</span>","播放链接":"href=\"&&\"","分类url":"https://www.ziziys.com/list/{cateId}-{catePg}.html;;ak","分类":"电影$1#国产剧$13#动漫$3#美剧$14#日韩剧$15"}},
 { "key": "kk", "name": "🌙可可", "type": 3, "searchable": 1, "changeable": 1,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api": "csp_XBPQ", "ext":{"线路数组":"<a&&</a>[排序:蓝光8>超清>极速蓝光>FF线路]","线路标题":"source-item-label\">&&</span>","播放数组": "<div class=\"episode-list\"&&</div>","播放链接": "href=\"&&\"","分类": "电视剧$2#电影$1#动漫$3#综艺$4#","分类url": "https://www.keke5.app/show/{cateId}-{class}-{area}-{lang}-{year}-3-{catePg}.html"}},
 {"key":"heimuer","name":"🐤木耳","type":1,"api":"https://json.heimuer.xyz/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","泰国剧","欧美剧","海外剧","香港剧","台湾剧","日本剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","记录片","短片","动画片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日本动漫"]},
 {"key":"csp_XBPQ_NAKAN","name":"🤡耐看","type":3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{
