@@ -2,6 +2,7 @@
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 {"key":"️WOGG","name":"❤️玩偶","type":3,"jar":"./lib/jar.php;md5;4642bf29455e1bbc92414086532ff5b3","api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/wo.json"},
+{"key":"csp_FG","name":"🐶狗狗","type":3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"播放数组":"<ul class=\"play_num_list&&</ul>","分类":"电影&1#电视剧&2#动漫&3#综艺&4","分类url":"https://www.fenggoudy3.com/list-select-id-{cateId}-type-{class}-area-{area}-year-{year}-star--state--order-{by}-p-{catePg}.html"}},
 {"key": "zxzj","name": "🍊在线","type": 3,"api": "./lib/apiv39drpy2.min.js","ext": "./lib/zx.js"},
 {"key":"csp_XXYS","name":"🤡兄弟","type":3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类url":"https://www.brovod.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/","分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$5"}},
 {"key":"csp_WAI","name":"🤡歪片","type":3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman#纪录片$jilupian#歪片库$waipian","分类url":"https://waipian12.com/show-{cateId}-{area}-{by}-{class}-----{catePg}---{year}/"}},
