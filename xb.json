@@ -1,6 +1,13 @@
 {"spider":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 "sites":[
-{"key":"BTTWO","name":"🍄比特","type":3,"api":"csp_XBPQ","ext":{"线路数组":"zaixianbf\"&&</div>","线路标题":"</i>&&</a>","播放数组":"paly_list_btn\">&&</div>","播放标题":">&&<","播放列表":"<a&&/a>","分类url":"https://www.bttwoo.com/{cateId}/{area}/year/{year}/{class}/page/{catePg};;ak","分类":"影视筛选$movie_bt#最新电影$new-movie#热门下载$hot#本月热门$hot-month#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv"}},
+{"key":"BTTWO","name":"🍄比特","type":3,"api":"csp_XBPQ","ext":{
+"线路数组":"zaixianbf\"&&</div>",
+"线路标题":"</i>&&</a>",
+"播放数组":"paly_list_btn\">&&</div>",
+"播放标题":">&&<",
+"播放列表":"<a&&/a>",
+"分类url":"https://www.bttwoo.com/{cateId}/{area}/year/{year}/{class}/page/{catePg};;ak",
+"分类":"影视筛选$movie_bt#最新电影$new-movie#热门下载$hot#本月热门$hot-month#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv"}},
 {"key":"DOUJIAO","name":"🐯豆角","type":3,"api":"csp_XBPQ","ext":{"线路数组":"<span&&/span>","分类":"电视剧$2#电影$1#视频大全$25#动漫$4#综艺$3",
 "分类url":"https://m.doujiaow5.com/index.php?m=vod-list-id-{cateId}}-pg-{catePg}-order--by-{by}-class-{class}-year-{year}-letter--area-{area}-lang-.html"}},
 {"key":"LUOBO","name":"🐯萝卜","type":3,"api":"csp_XBPQ","ext":{"线路数组":"<li><a href=&&/a>[替换:首页>>线一#电影>>线二#电视剧>>线三#综艺>>线四#动漫>>线五]","分类":"电影$1#电视剧$2#动漫$4#综艺$3","分类url":"http://www.pg8090.com/show/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"}},
