@@ -1,4 +1,4 @@
-{"spider":"./lib/fan.txt;md5;aa89ba3e4720a055e09591f92c2ff40c",
+{"spider":"./lib/fan.txt",
 "wallpaper":"http://tv.nxog.top/m/t/img/10.jpg",
 "sites":[
 {"key":"DAOHANG","name":"🌈导航","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
