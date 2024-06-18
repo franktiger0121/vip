@@ -2,8 +2,9 @@
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 {"key":"️WOGG","name":"❤️玩偶","type":3,"jar":"./lib/jar.php;md5;4642bf29455e1bbc92414086532ff5b3","api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/wo.json"},
-{"key": "SBB","name": "🎃素白","type": 3,"api": "./lib/apiv39drpy2.min.js","playerType":1,"ext": "./lib/sbb.js"},
-{"key":"csp_KBTV","name":"🐶看吧","type":3,"jar":"./lib/jar.php;md5;4642bf29455e1bbc92414086532ff5b3","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":{"播放数组":"<ul class=\"play_num_list&&</ul>","分类":"电影&1#电视剧&2#动漫&3#综艺&4","分类url":"http://kan8.tv/films/{cateId}_{catePg}.html{by}"}},
+{"key":"素白白","name":"🚛素白┃秒播","type":3,"api":"./lib/apiv403drpy2.min.js","ext":"./lib/sbb.js"},
+{"key":"看吧TV","name":"🚛看吧TV","type":3,"jar":"./lib/YSC.jar;md5;f1c129c7f789310d34619fe9688f6c2a","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/kb.json"},
+{"key":"csp_KBTV","name":"🐶看吧","type":3,"jar":"./lib/YSC.jar;md5;f1c129c7f789310d34619fe9688f6c2a","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":{"播放数组":"<ul class=\"play_num_list&&</ul>","分类":"电影&1#电视剧&2#动漫&3#综艺&4","分类url":"http://kan8.tv/films/{cateId}_{catePg}.html{by}"}},
 {"key":"csp_FG","name":"🐶狗狗","type":3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"播放数组":"<ul class=\"play_num_list&&</ul>","分类":"电影&1#电视剧&2#动漫&3#综艺&4","分类url":"https://www.fenggoudy3.com/list-select-id-{cateId}-type-{class}-area-{area}-year-{year}-star--state--order-{by}-p-{catePg}.html"}},
 {"key": "zxzj","name": "🍊在线","type": 3,"api": "./lib/apiv39drpy2.min.js","ext": "./lib/zx.js"},
 {"key":"csp_XXYS","name":"🤡兄弟","type":3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类url":"https://www.brovod.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/","分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$5"}},
