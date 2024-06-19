@@ -29,6 +29,8 @@
   "播放链接": "href=\"&&\""
 }},
 {"key":"csp_SBB","name":"🎠素白","type":3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{
+    "搜索模式": "1",
+  "搜索url": "https://www.subaibaiys.com/search?q={wd}",
   "线路数组": "mi_paly_box\">&&</div>",
   "线路标题": "ypxingq_t\">&&<span>[替换:在线播放>>播放列表]",
   "播放数组": "<div class=\"paly_list_btn\">&&</div>",
