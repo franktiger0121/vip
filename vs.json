@@ -1,4 +1,4 @@
-{"spider":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
+{"spider":"./lib/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
 "sites":[
 {"key":"DAOHANG","name":"🌈导航","type": 3,"jar":"./lib/fan.txt;md5;c75cf198357a3a77f2189ab0764f2a8c", "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"WANOU","name":"👑4K","type":3,"jar":"./lib/fan.txt;md5;c75cf198357a3a77f2189ab0764f2a8c","api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k","siteUrl":"https://www.wogg.link/"}},
