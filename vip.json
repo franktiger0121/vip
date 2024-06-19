@@ -1,8 +1,7 @@
 {"spider":"./lib/fan.txt;md5;c75cf198357a3a77f2189ab0764f2a8c",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
-{"key":"BZYY","name":"🏠B站","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"线路数组": "data-dropdown-value=&&</div>","线路标题":"<span>&&</small>","播放数组": "module-play-list\">&&</div>","分类": "电影$1#剧集$2#综艺$3#动漫$4","分类url": "https://www.lggys.com/index.php/vod/show{area}{by}{class}/id/{cateId}/page/{catePg}{year}.html"}},
-https://bzhanyy.com/index.php/vod/show/area/%E5%86%85%E5%9C%B0/by/hits/id/2/page/5/year/2019.html
+{"key":"BZYY","name":"🏠B站","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"线路数组": "data-dropdown-value=&&</div>","线路标题":"<span>&&</small>","播放数组": "module-play-list\">&&</div>","分类": "电影$1#剧集$2#综艺$3#动漫$4","分类url": "https://bzhanyy.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"}},
 { "key": "dami", "name": "👻大米", "type": 3, "searchable": 1, "changeable": 1,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api": "csp_XBPQ", "ext":{"分类url":"https://damicin.com/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$20#电视剧$21#动漫$22#综艺$23#其它$35"}},
 {"key":"jsXD","name":"👦兄弟","type":3,"api":"./lib/apiv39drpy2.min.js","ext":"./lib/xdys.js"},
 {"key":"csp_SBB","name":"🐶素白","type":3,"jar":"./lib/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"播放数组\":\"class=\\\"paly_list_btn&&</div>\",\"分类\":\"电影$new-movie#电视剧$tv-drama#国产剧$domestic-drama#香港经典电影$hongkong-movie\",\"分类url\":\"https://www.subaibaiys.com/{cateId}/page/{catePg}\"}"},
