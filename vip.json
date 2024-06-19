@@ -4,9 +4,8 @@
 {"key":"csp_FG","name":"🐶狗狗","type":3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"播放数组":"<ul class=\"play_num_list&&</ul>","分类":"电影&1#电视剧&2#动漫&3#综艺&4","分类url":"https://www.fenggoudy3.com/list-select-id-{cateId}-type-{class}-area-{area}-year-{year}-star--state--order-{by}-p-{catePg}.html"}},
 {"key":"csp_SBB","name":"🎠素白","type":3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{
   "主页url": "https://www.subaibaiys.com",
-   "数组": "<li>&&</li>",
-  "搜索模式": "1",
-  "搜索url": "/search?q={wd}",
+   "搜索模式": "1",
+  "搜索url": "https://www.subaibaiys.com/search?q={wd}",
   "搜索数组": "<li>&&</li>",
   "搜索图片": "data-original=\"&&\"",
   "搜索标题": "alt=\"&&\"",
