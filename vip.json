@@ -1,6 +1,9 @@
 {"spider":"./lib/fan.txt;md5;c75cf198357a3a77f2189ab0764f2a8c",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
+{"key":"csp_SB1","name":"🎠SB1","type":3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/SB1.json"},
+{"key":"csp_SB2","name":"🎠SB2","type":3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/SB2.json"},
+{"key":"csp_SB3","name":"🎠SB3","type":3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/SB3.json"},
 {"key":"BZYY","name":"🏠B站","type":3,"api":"./lib/apiv39drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/BZ.js"},
 { "key": "dami", "name": "👻大米", "type": 3, "searchable": 1, "changeable": 1,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api": "csp_XBPQ", "ext":{"分类url":"https://damicin.com/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$20#电视剧$21#动漫$22#综艺$23#其它$35"}},
 {"key":"jsXD","name":"👦兄弟","type":3,"api":"./lib/apiv39drpy2.min.js","ext":"./lib/xdys.js"},
