@@ -1,7 +1,7 @@
 {"spider":"./lib/fan.txt;md5;c75cf198357a3a77f2189ab0764f2a8c",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
-{"key":"js兄弟影视","name":"🌙兄弟","type":3,"api":"./lib/apiv39drpy2.min.js","ext":"./lib/xdys.js"},
+{"key":"js兄弟影视","name":"👦兄弟","type":3,"api":"./lib/apiv39drpy2.min.js","ext":"./lib/xdys.js"},
 {"key":"SEVEN","name":"🌈七新","type":3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类url":"http://www.7xdy.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k","分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}},
 {"key":"csp_SBB","name":"🐶素白","type":3,"jar":"./lib/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"播放数组\":\"class=\\\"paly_list_btn&&</div>\",\"分类\":\"电影$new-movie#电视剧$tv-drama#国产剧$domestic-drama#香港经典电影$hongkong-movie\",\"分类url\":\"https://www.subaibaiys.com/{cateId}/page/{catePg}\"}"},
 {"key":"看吧TV","name":"🚛看吧TV","type":3,"jar":"./lib/YSC.jar;md5;f1c129c7f789310d34619fe9688f6c2a","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/kb.json"},
