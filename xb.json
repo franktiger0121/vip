@@ -6,7 +6,6 @@
 			"name": "🌟圣城",
 			"type": 3,
 			"changeable": 1,
-			"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_XBPQ",
 			"playerType": "1",
 			"ext": {
