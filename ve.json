@@ -1,4 +1,4 @@
-﻿{"spider":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
+{"spider":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 "sites":[
 {"key":"DAOHANG","name":"🌈导航","type": 3,"jar":"./lib/fty.jar", "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"WANOU","name":"👑4K","type":3,"jar":"./lib/fty.jar","api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k","siteUrl":"https://www.wogg.link/"}},
@@ -6,6 +6,9 @@
 {"key":"XPG","name":"🍎苹果","type":3,"jar":"./lib/fty.jar","api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"KUKAN","name":"📺酷看","type":3,"jar":"./lib/fty.jar","api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"zxzj","name":"🍊在线","type":3,"jar":"./lib/fty.jar","api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
+{"key":"小学课堂","name":"📚小学课堂","type":3,"jar":"./lib/fty.jar","api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./lib/小学课堂.json"},
+{"key":"初中课堂","name":"📚初中课堂","type":3,"jar":"./lib/fty.jar","api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./lib/初中课堂.json"},
+{"key":"高中教育","name":"📚高中课堂","type":3,"jar":"./lib/fty.jar","api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./lib/高中课堂.json"},
 {"key":"csp_XBPQ_XC","name":"⭐星辰","type":3,"api":"csp_XBPQ","ext":{"线路数组":"<h3&&/h3>","线路标题":">&&<","播放链接":"href='&&'","分类url":"http://www.xingchenju.com/{cateId}/index{catePg}.html[http://www.xingchenju.com/{cateId}/index.html];;ak","分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}},
 {"key": "HEIHU","name": "🦊黑狐","type":3,"api":"csp_XBPQ","ext":{"线路数组": "<a data-toggle=\"tab\"&&/a>[排序:优>咪>搜>奇]","线路标题": ">&&<","分类": "电影$1#电视剧$2#动漫$3#综艺$4","分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"}},
 {"key":"jqqxbpq","name":"⭕剧圈","type":3,"api":"csp_XBPQ","ext":{"线路数组": "data-dropdown-value=&&</div>[排序:自切蓝光>自建蓝光>M3蓝光>LS有广>第四]","线路标题":"<span>&&</small>","分类url":"https://www.jqqzx.cc/vodshow/id/{cateId}/page/{catePg}.html","分类":"电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman"}},
