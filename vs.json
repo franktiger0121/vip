@@ -2,7 +2,7 @@
 "sites":[
 {"key":"DAOHANG","name":"🌈导航","type":3,"jar":"./lib/wex.jar","api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"腾讯视频","name":"🐧腾讯4K","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX.js"},
-{"key":"腾讯视频22","name":"🐧腾讯4K22","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/腾讯视频.js"},
+{"key":"腾讯视频2","name":"🐧腾讯22","type":3,"api":"./lib/apiv39drpy2.min.js","ext":"./lib/TX.js"},
 {"key":"happy","name":"😄愉悦4K","type":3,"jar":"./lib/wex.jar","api":"csp_Wexyuyueys","searchable":1,"changeable":1},
 {"key":"SONG","name":"🎼笙歌4K","type":3,"jar":"./lib/wex.jar","api":"csp_AppYY","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"️WOGG","name":"❤️玩偶4K","type":3,"jar":"./lib/wex.jar","api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/wo.json"},
