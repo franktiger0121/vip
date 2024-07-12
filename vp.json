@@ -2,7 +2,7 @@
 "sites":[
 {"key":"DAOHANG","name":"🌈导航","type":3,"jar":"./lib/wex.jar","api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"LRJ","name":"🐧腾讯4K","type":3,"jar":"./lib/wex.jar","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://122.228.84.103:5825/api.php/app/"},
-{"key":"drpy_js_腾云驾雾","name":"腾云驾雾[js]","type":3,"api":"./lib/apiv39drpy2.min.js","ext":"./lib/tengxun.js"},
+{"key":"drpy_js_腾云驾雾","name":"腾云驾雾[js]","type":3,"api":"./lib/apiv39drpy2.min.js","ext":"./lib/腾讯视频.js"},
 {"key":"drpy_js_腾云驾雾22","name":"腾云驾雾[js]22","type":3,"api":"./lib/apiv39drpy2.min.js","ext":"./lib/腾云驾雾.js"},
 {"key":"happy","name":"😄愉悦4K","type":3,"jar":"./lib/wex.jar","api":"csp_Wexyuyueys","searchable":1,"changeable":1},
 {"key":"SONG","name":"🎼笙歌4K","type":3,"jar":"./lib/wex.jar","api":"csp_AppYY","searchable":1,"quickSearch":0,"changeable":0},
