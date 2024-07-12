@@ -1,9 +1,8 @@
 {"spider":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 "sites":[
 {"key":"DAOHANG","name":"🌈导航","type":3,"jar":"./lib/wex.jar","api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"TENCENT","name":"🐧4K腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX.js"},
 {"key":"LRJ","name":"🐧腾讯4K","type":3,"jar":"./lib/wex.jar","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://122.228.84.103:5825/api.php/app/"},
-{"key":"drpy_js_腾云驾雾","name":"腾云驾雾[js]","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/腾讯视频.js"},
-{"key":"drpy_js_腾云驾雾22","name":"腾云驾雾[js]22","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX.js"},
 {"key":"happy","name":"😄愉悦4K","type":3,"jar":"./lib/wex.jar","api":"csp_Wexyuyueys","searchable":1,"changeable":1},
 {"key":"SONG","name":"🎼笙歌4K","type":3,"jar":"./lib/wex.jar","api":"csp_AppYY","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"WANOU","name":"👑玩偶4K","type":3,"jar":"./lib/fty.jar","api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k","siteUrl":"https://www.wogg.link/"}},
