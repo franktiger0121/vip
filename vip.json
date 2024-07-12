@@ -1,6 +1,7 @@
 {"spider":"./lib/wex.jar;md5;3843f962622e1fa261e6cd26ebbe2807",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
+{"key":"JIANPIAN","name":"📽荐片","type":3,"api":"./lib/apiv141drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/JP.js"},
         {
             "key": "豆瓣",
             "name": "豆瓣",
