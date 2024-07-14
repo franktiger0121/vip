@@ -3,6 +3,8 @@
 {"key":"DAOHANG","name":"🌈导航","type":3,"jar":"./lib/wex.jar","api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"TENCENT","name":"🐧腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX.js"},
 {"key":"LRJ","name":"🐧腾讯4K","type":3,"jar":"./lib/wex.jar","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://122.228.84.103:5825/api.php/app/"},
+{"key":"LRJ22","name":"🐧腾讯4K22","type":3,"jar":"./lib/wex.jar","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dh.li0580.com:6532/api.php/app/"},
+{"key":"LRJ33","name":"🐧腾讯4K33","type":3,"jar":"./lib/wex.jar","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://liu.li0580.com:5365/api.php/provide/vod/"},
 {"key":"happy","name":"😄愉悦4K","type":3,"jar":"./lib/wex.jar","api":"csp_Wexyuyueys","searchable":1,"changeable":1},
 {"key":"SONG","name":"🎼笙歌4K","type":3,"jar":"./lib/wex.jar","api":"csp_AppYY","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"WANOU","name":"👑玩偶4K","type":3,"jar":"./lib/fty.jar","api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k","siteUrl":"https://www.wogg.link/"}},
@@ -26,5 +28,9 @@
 {"key":"DADA","name":"🐢达达","type":3,"api":"csp_XBPQ","ext":{"线路数组":"<h3&&/h3>","线路标题":">&&<","分类":"电影$1#连续剧$2#综艺$3#动漫$4","分类url":"http://www.dadagui.me/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"}}],
 "parses":[
 {"name": "聚合","type": 3,"url": "Demo"},
-{"name": "腾讯4K","url": "https://ldhz.li0580.com//api/jsonindex.php/?key=7Dtvavu8iDUkd1vRxC&url=","type": "1","status": "normal","type_text": "Type 1","status_text": "正常"}],
+{"name": "腾讯4K","url": "https://ldhz.li0580.com/api/jsonindex.php/?key=7Dtvavu8iDUkd1vRxC&url=","type": "1","status": "normal","type_text": "Type 1","status_text": "正常"},
+{"name": "111","url": "https://ldhz.li0580.com/api/jsonindex.php/?key=5r77owG0IxkmKBXli9&url=","type": "1","status": "normal","type_text": "Type 1","status_text": "正常"},
+{"name": "222","url": "http://110.40.61.123:7777/api/?key=5r77owG0IxkmKBXli9&url=","type": "1","status": "normal","type_text": "Type 1","status_text": "正常"},
+{"name": "333","url": "http://jx.li0580.com/home/api?type=ys&uid=2712055&key=dhjmnpquyBFINORW49&url=","type": "1","status": "normal","type_text": "Type 1","status_text": "正常"},
+{"name": "444","url": "http://122.228.84.103:7777/api/?key=J3RDcpC4cTTSrpyEeD&url=","type": "1","status": "normal","type_text": "Type 1","status_text": "正常"}],
 "doh":[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],"lives":{"name":"live","type":0,"url":"./lib/live.txt","playerType":1}}
