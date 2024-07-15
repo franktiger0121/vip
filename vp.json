@@ -26,5 +26,7 @@
 {"key":"DADA","name":"🐢达达","type":3,"api":"csp_XBPQ","ext":{"线路数组":"<h3&&/h3>","线路标题":">&&<","分类":"电影$1#连续剧$2#综艺$3#动漫$4","分类url":"http://www.dadagui.me/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"}}],
 "parses":[
 {"name": "聚合","type": 3,"url": "Demo"},
-{"name": "腾讯4K","url": "https://ldhz.li0580.com//api/jsonindex.php/?key=7Dtvavu8iDUkd1vRxC&url=","type": "1","status": "normal","type_text": "Type 1","status_text": "正常"}],
+{"name": "腾讯4K","url": "https://ldhz.li0580.com//api/jsonindex.php/?key=7Dtvavu8iDUkd1vRxC&url=","type": "1","status": "normal","type_text": "Type 1","status_text": "正常"},
+{"name": "4K","type": 1,"url": "http://110.40.61.123:7777/api/?key=5r77owG0IxkmKBXli9&url="},
+{"name": "腾讯2","url": "http://110.40.61.123:7777/api/?key=5r77owG0IxkmKBXli9&url=","type": "1","status": "normal","type_text": "Type 1","status_text": "正常"}],
 "doh":[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],"lives":{"name":"live","type":0,"url":"./lib/live.txt","playerType":1}}
