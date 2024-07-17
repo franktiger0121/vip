@@ -9,6 +9,7 @@
 {"key": "三六零弹幕","name": "🍒三六零","type": 3,"api": "csp_Sp360","searchable": 1,"filterable": 1,"changeable": 1},
 {"key": "机器人弹幕","name": "🍒机器人","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "一起看弹幕","name": "🍒一起看","type": 3,"api": "csp_Yqk","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"zxzj","name":"🍊在线","type":3,"jar":"./lib/wex.jar","api":"csp_Wexzxzj","searchable":1,"changeable":1},
 {"key":"JIANPIAN","name":"📽荐片","type":3,"api":"./lib/apiv141drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/JP.js"},
 {"key":"kk","name":"👻可可","type":3,"timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","ext":{"线路数组":"<a&&</a>[排序:超清>蓝光8>极速蓝光>FF线路]","线路标题":"source-item-label\">&&</span>","播放数组":"<div class=\"episode-list\"&&</div>","播放链接":"href=\"&&\"","分类":"电视剧$2#电影$1#动漫$3#综艺$4","分类url":"https://www.keke5.app/show/{cateId}-{class}-{area}-{lang}-{year}-3-{catePg}.html"}},
 {"key":"csp_XXYS","name":"🤡兄弟","type":3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类url":"https://www.brovod.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/","分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$5"}},
@@ -45,7 +46,6 @@
 {"key": "南瓜","name": "🎃南瓜","type": 3,"api": "./lib/apiv39drpy2.min.js","playerType":1,"ext": "./lib/NG.js"},
 {"key":"csp_XBPQ_ccccc","name":"🎠策驰","type":3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/CC.json"},
 {"key":"drpyVOFLIX","name":"🏠VOFLIX","type":3,"api":"./lib/apiv39drpy2.min.js","ext":"./lib/voflix.js"},
-{"key":"sliu_spider","name":"石榴","jar":"./lib/fix240524.jar;md5;52a7187a09053f22828cc9ca829b1b73","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},
 {"key": "csp_Vidhub2","name": "🎼Vid","type": 3,"jar":"./lib/62c64a48bd009f9391e7dcd6bd3cf989.jar;md5;62c64a48bd009f9391e7dcd6bd3cf989","api": "csp_Vidhub2","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "555yingshi","name":"😺555","type":3,"jar":"./lib/jar.php;md5;4642bf29455e1bbc92414086532ff5b3","api":"csp_XBPQ","ext": {"分类":"电影$1#电视剧$2#动漫$4","分类url":"https://5moov.vip/vodshow/{cateId}--------{catePg}---.html"}},
 {"key":"drpy_js","name":"💢厂长","type":3,"api":"./lib/apiv39drpy2.min.js","ext":"./lib/czspp.txt"},
@@ -138,9 +138,6 @@
 				"分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a"
 			}
 		},
-{"key":"低端","name":"⏮️低端","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_DiDuan","name":"低端","type":3,"jar":"./lib/fix240524.jar;md5;52a7187a09053f22828cc9ca829b1b73","api":"csp_Ddrk","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},
-{"key":"ZXZJ22","name":"在线22","jar":"./lib/fix240524.jar;md5;52a7187a09053f22828cc9ca829b1b73","api":"csp_Zxzj","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 		{
 			"key": "freeok",
 			"name": "🌟FREE",
