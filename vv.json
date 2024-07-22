@@ -1,9 +1,9 @@
 {"spider":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 "sites":[
-{"key": "danmuCZ","name": "🏭厂长","type": 3,"jar":"./lib/wex.jar","api": "csp_WexCzzy","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "danmuCZ","name": "🏭厂长","type": 3,"jar": "./lib/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5","api": "csp_Czzy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "danmuXPG","name": "🍎苹果","type": 3,"jar":"./lib/wex.jar","api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "danmuKK","name": "📺酷看","type": 3,"jar":"./lib/wex.jar","api": "csp_Wexkukantv","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"NEW6V","name":"🧲影港","type":3,"jar":"./lib/wex.jar","api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "https://www.xb6v.com/"},
+{"key":"NEW6V","name":"🧲影港","type":3,"jar":"./lib/fty.jar","api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "https://www.xb6v.com/"},
 {"key":"happy","name":"😄愉悦","type":3,"jar":"./lib/wex.jar","api":"csp_Wexyuyueys","searchable":1,"changeable":1},
 {"key":"SONG","name":"🎼笙歌","type":3,"jar":"./lib/wex.jar","api":"csp_AppYY","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"JIANPIAN","name":"📽荐片","type": 3,"jar":"./lib/wex.jar","api": "csp_JianPian","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://api2.rinhome.com"},
