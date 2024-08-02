@@ -2,9 +2,8 @@
 "sites":[
 {"key":"DAOHANG","name":"🌈导航","type":3,"jar":"./lib/wex.jar","api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"TENCENT","name":"🐧腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX.js"},
-{"key":"txjingyang","name":"🐧txjingyang","type":3,"jar":"./lib/wex.jar","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tx.jingyang.design:1102/api.php/app/"},
-{"key":"mgjingyang","name":"🐧mgjingyang","type":3,"jar":"./lib/wex.jar","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mg.jingyang.design:1106/api.php/app/"},
-{"key":"guanjingyang","name":"🐧guanjingyang","type":3,"jar":"./lib/wex.jar","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://guan.jingyang.design:1101/api.php/app/"},
+{"key":"txjingyang","name":"🐧腾讯4K","type":3,"jar":"./lib/wex.jar","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tx.jingyang.design:1102/api.php/app/"},
+{"key":"guanjingyang","name":"🐧备用","type":3,"jar":"./lib/wex.jar","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://guan.jingyang.design:1101/api.php/app/"},
 {"key":"happy","name":"😄愉悦4K","type":3,"jar":"./lib/wex.jar","api":"csp_Wexyuyueys","searchable":1,"changeable":1},
 {"key":"SONG","name":"🎼笙歌4K","type":3,"jar":"./lib/wex.jar","api":"csp_AppYY","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"WANOU","name":"👑玩偶4K","type":3,"jar":"./lib/fty.jar","api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k","siteUrl":"https://www.wogg.link/"}},
@@ -28,5 +27,7 @@
 {"key":"DADA","name":"🐢达达","type":3,"api":"csp_XBPQ","ext":{"线路数组":"<h3&&/h3>","线路标题":">&&<","分类":"电影$1#连续剧$2#综艺$3#动漫$4","分类url":"http://www.dadagui.me/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"}}],
 "parses":[
 {"name": "聚合","type": 3,"url": "Demo"},
-{"name": "4K","url": "http://清清.摸鱼儿.top/vipjx.php?url=","type": "1","status": "normal","type_text": "Type 1","status_text": "正常"}],
+{"name": "腾讯4K","url": "http://清清.摸鱼儿.top/vipjx.php?url=","type": "1","status": "normal","type_text": "Type 1","status_text": "正常"},
+{"name": "测试1","url": "http://清清.摸鱼儿.top/stst.php?url=","type": "1","status": "normal","type_text": "Type 1","status_text": "正常"},
+{"name": "测试2","url": "http://清清.摸鱼儿.top/gzsp.php?url=","type": "1","status": "normal","type_text": "Type 1","status_text": "正常"}],
 "doh":[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],"lives":{"name":"live","type":0,"url":"./lib/live.txt","playerType":1}}
