@@ -1,7 +1,9 @@
 {"spider":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 "sites":[
 {"key":"TENCENT","name":"🐧腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX.js"},
-{"key": "danmuXPG","name": "🍎苹果","type": 3,"jar":"./lib/wex.jar","api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "腾讯视频","name": "腾讯｜视频","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/腾讯视频.js"},
+{"key": "WEXMY","name": "蚂蚁","type": 1,"jar":"./lib/wex.jar","api": "http://dsakf23665.com/api.php/provide/vod/from/NBY","searchable": 1,"changeable": 1,"playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url="},
+{"key": "wexXPG","name": "🍎苹果","type": 3,"jar":"./lib/wex.jar","api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "danmuKK","name": "📺酷看","type": 3,"jar":"./lib/wex.jar","api": "csp_Wexkukantv","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Keke","name":"👻可可","type":3,"jar":"./lib/wex.jar","api":"csp_Keke","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SC1080","name":"🏰圣城","type":3,"jar":"./lib/wex.jar","api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1},
@@ -14,7 +16,8 @@
 {"key":"YUNBO","name":"💖云播","type":3,"api":"csp_XBPQ","ext":{"线路数组":"<div class=\"myui-panel__head bottom-line active clearfix\">&&</div>[排序:移动专线>量子线路>非凡线路>第四>第五]","线路标题":"title\">&&</h3>","播放数组":"<ul class=\"myui-content__list scrollbar sort-list clearfix\"&&</ul>","分类":"电影$1#电视剧$2#综艺$3#动漫$4","分类url":"http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"}},
 {"key":"QIYI","name":"🦌奇优","type":3,"changeable":1,"api":"csp_XBPQ","playerType":"1","ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>[排序:播放源1>播放源4>播放源2>播放源3]","线路标题":">&&<","播放数组":"<ul class=\"stui-content__playlist clearfix&&</ul>","分类url":"http://www.qiyoudy1.com/list/{cateId}_{catePg}.html?order={by}","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
 {"key":"看吧","name":"😉看吧","type":3,"api":"csp_XBPQ","ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>[排序:优>咪>搜>奇]","线路标题":">&&<","分类":"电影$1#电视剧$2#动漫$3#综艺$4","分类url":"http://kan8.tv/films/{cateId}_{catePg}.html?order=time"}},
-{"key": "danmuCZ","name": "🏭厂长","type": 3,"jar": "./lib/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5","api": "csp_Czzy","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "danmuCZ","name": "🏭厂长","type": 3,"jar": "./lib/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75","api": "csp_Czzy","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "danmuWC","name": "文才","type": 3,"jar": "./lib/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75","api": "csp_Jpys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"JIANPIAN","name":"📽荐片","type":3,"api":"./lib/apiv141drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/JP.js"}],
 "parses":[
 {"name": "聚合","type": 3,"url": "Demo"},
