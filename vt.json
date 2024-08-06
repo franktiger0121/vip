@@ -1,7 +1,7 @@
 {"spider":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 "sites":[
 {"key":"TENCENT","name":"🐧腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX.js"},
-{"key":"PGTENCENT","name":"腾讯","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/腾讯视频.js"},
+{"key":"PGTENCENT","name":"腾讯","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/腾讯视频.js"},
 {"key": "danmuXPG","name": "🍎苹果","type": 3,"jar":"./lib/wex.jar","api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "danmuKK","name": "📺酷看","type": 3,"jar":"./lib/wex.jar","api": "csp_Wexkukantv","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Keke","name":"👻可可","type":3,"jar":"./lib/wex.jar","api":"csp_Keke","searchable":1,"quickSearch":1,"filterable":1},
