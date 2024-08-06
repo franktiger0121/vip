@@ -1,7 +1,5 @@
 {"spider":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 "sites":[
-{"key":"TENCENT","name":"🐧腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX.js"},
-{"key":"PGTENCENT","name":"腾讯","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext":"./lib/TX.js"},
 {"key": "danmuXPG","name": "🍎苹果","type": 3,"jar":"./lib/wex.jar","api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "danmuKK","name": "📺酷看","type": 3,"jar":"./lib/wex.jar","api": "csp_Wexkukantv","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Keke","name":"👻可可","type":3,"jar":"./lib/wex.jar","api":"csp_Keke","searchable":1,"quickSearch":1,"filterable":1},
@@ -16,6 +14,7 @@
 {"key":"QIYI","name":"🦌奇优","type":3,"changeable":1,"api":"csp_XBPQ","playerType":"1","ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>[排序:播放源1>播放源4>播放源2>播放源3]","线路标题":">&&<","播放数组":"<ul class=\"stui-content__playlist clearfix&&</ul>","分类url":"http://www.qiyoudy1.com/list/{cateId}_{catePg}.html?order={by}","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
 {"key":"看吧","name":"😉看吧","type":3,"api":"csp_XBPQ","ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>[排序:优>咪>搜>奇]","线路标题":">&&<","分类":"电影$1#电视剧$2#动漫$3#综艺$4","分类url":"http://kan8.tv/films/{cateId}_{catePg}.html?order=time"}},
 {"key": "danmuCZ","name": "🏭厂长","type": 3,"jar": "./lib/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5","api": "csp_Czzy","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"TENCENT","name":"🐧腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX.js"},
 {"key":"JIANPIAN","name":"📽荐片","type":3,"api":"./lib/apiv141drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/JP.js"}],
 "parses":[
 {"name": "聚合","type": 3,"url": "Demo"},
