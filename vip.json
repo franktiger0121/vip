@@ -1,6 +1,7 @@
 {"spider":"./lib/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
+{"key":"csp_Wexxiongdiys","name":"👦兄弟","type":3,"jar":"./lib/wex.jar","api":"csp_Wexxiongdiys","searchable":1,"changeable":1},
 {"key": "厂长弹幕","name": "🍒厂长","type": 3,"api": "csp_Czzy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "小苹果弹幕","name": "🍒小苹果","type": 3,"api": "csp_Xpg","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "酷看弹幕","name": "🍒酷看","type": 3,"api": "csp_Kkys","searchable": 1,"quickSearch": 1,"filterable": 1},
