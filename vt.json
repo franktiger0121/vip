@@ -17,8 +17,6 @@
 {"key":"TENCENT","name":"🐧腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX.js"},
 {"key":"JIANPIAN","name":"📽荐片","type":3,"api":"./lib/apiv141drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/JP.js"}],
 "parses":[
-{"name":"Web聚合","type":3,"url":"Web"},
-{"name": "Demo聚合","type": 3,"url": "Demo"},
 {"name": "腾讯1080P","type": 0,"url": "https://t1.qlplayer.cyou/player/?url="},
 {"name": "腾讯蓝光","type": 0,"url": "https://jx.quankan.app/?url="},
 {"name": "腾讯4K","url": "http://清清.摸鱼儿.top/moyu666.php?url=","type": "1","status": "normal","type_text": "Type 1","status_text": "正常"}],
