@@ -1,5 +1,8 @@
 {"spider":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 "sites":[
+{"key":"txjingyang11","name":"111","type":3,"jar":"./lib/wex.jar","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tipu.xjqxz.top/api.php/v2.vod/androidtypes"},
+{"key":"txjingyang22","name":"222","type":3,"jar":"./lib/wex.jar","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tipu.xjqxz.top/api.php/v2.main/androidhome"},
+{"key":"txjingyang33","name":"333","type":3,"jar":"./lib/wex.jar","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tipu.xjqxz.top/api.php/v2.vod/"},
 {"key": "danmuXPG","name": "🍎苹果","type": 3,"jar":"./lib/wex.jar","api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "danmuKK","name": "📺酷看","type": 3,"jar":"./lib/wex.jar","api": "csp_Wexkukantv","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Keke","name":"👻可可","type":3,"jar":"./lib/wex.jar","api":"csp_Keke","searchable":1,"quickSearch":1,"filterable":1},
