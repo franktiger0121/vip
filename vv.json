@@ -1,7 +1,8 @@
 {"spider":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 "sites":[
-{"key": "danmuXPG","name": "🍎苹果","type": 3,"jar":"./lib/wex.jar","api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "danmuKK","name": "📺酷看","type": 3,"jar":"./lib/wex.jar","api": "csp_Wexkukantv","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"WEXZJ","name":"🎀追剧","type":3,"jar":"./lib/wex.jar","api":"csp_AppZJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://z.kzjtv.com/"},
+{"key": "WEXXPG","name": "🍎苹果","type": 3,"jar":"./lib/wex.jar","api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "WEXKK","name": "📺酷看","type": 3,"jar":"./lib/wex.jar","api": "csp_Wexkukantv","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Keke","name":"👻可可","type":3,"jar":"./lib/wex.jar","api":"csp_Keke","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "New6v","name": "📽6V","type": 3,"jar":"./lib/wex.jar","api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.xb6v.com"},
 {"key":"zxzj","name":"🍊在线","type":3,"jar":"./lib/wex.jar","api":"csp_Wexzxzj","searchable":1,"changeable":1},
