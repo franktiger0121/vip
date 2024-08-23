@@ -1,7 +1,6 @@
 {"spider":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 "sites":[
-{"key":"TENCENT","name":"🐧腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX.js"},
-{"key":"TENCENT2","name":"🐧腾讯2","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX2.js"},
+{"key":"TENCENT","name":"🐧腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX2.js"},
 {"key":"VQQ","name":"⭐️腾讯(备)","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"2","api":"csp_XBPQ","ext":"http://我不是.摸鱼儿.top/api/moyu.php?file=腾云"}],
 "parses":[
 {"name":"腾讯4K","url":"http://vipjx.xn--v4q818bf34b.com/moyu64.php?url=","type":"1","status":"normal","type_text":"Type 1","status_text":"正常"},
