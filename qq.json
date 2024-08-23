@@ -1,4 +1,4 @@
-{"spider":"http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+{"spider":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 "sites":[
 {"key":"TENCENT","name":"🐧腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX.js"},
 {"key":"腾云","name":"⭐️腾讯","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"2","api":"csp_XBPQ","ext":"http://我不是.摸鱼儿.top/api/moyu.php?file=腾云"}],
