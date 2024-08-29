@@ -1,8 +1,9 @@
 {"sites":[
-{"key":"TENCENT","name":"🐧腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX2.js"}],
+{"key":"TENCENT","name":"🐧腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX2.js"}
+{"key": "3602","name": "💢360","type": 3,"api": "./lib/apiv141drpy2.min.js","playerType":2,"ext": "./lib/360.js"}],
 "parses":[
-{"name":"LX1","url":"http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=","type":"1","status":"normal","type_text":"Type 1","status_text":"正常"},
-{"name":"LX2","type":1,"url":"http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
+{"name":"芒果1","url":"http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=","type":"1","status":"normal","type_text":"Type 1","status_text":"正常"},
+{"name":"芒果2","type":1,"url":"http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
 {"name":"腾讯1","url":"http://moyu.zhuimi.top/zhuimi.php?url=","type":"1","status":"normal","type_text":"Type 1","status_text":"正常"},
 {"name":"腾讯2","type":1,"url":"http://moyu.zhuimi.top/zhuimi.php?url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
 {"name":"腾讯3","url":"http://zhuimi996.xn--v4q818bf34b.top/zhuimi.php?url=","type":"1","status":"normal","type_text":"Type 1","status_text":"正常"},
