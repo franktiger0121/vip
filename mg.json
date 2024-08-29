@@ -1,5 +1,12 @@
 {"sites":[
-{"key":"MANGGUO","name":"💢芒果","type":3,"api":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","playerType":2,"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/芒果视频.js"}],
+        {
+            "key": "芒果视频",
+            "name": "芒果｜视频",
+            "type": 3,
+            "api": "https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+            "ext": "https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/%E8%8A%92%E6%9E%9C%E8%A7%86%E9%A2%91.js"
+        }
+        ],
 "parses":[
 {"name":"芒果1","url":"http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=","type":"1","status":"normal","type_text":"Type 1","status_text":"正常"},
 {"name":"芒果2","type":1,"url":"http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}}],
