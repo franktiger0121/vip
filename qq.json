@@ -1,6 +1,6 @@
 {"sites":[
 {"key":"TENCENT","name":"🐧腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX2.js"},
-{"key":"MGTV","name":"芒果","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/MG.js"}],
+{"key":"MGTV","name":"芒果","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/MG.js"}],
 "parses":[
 {"name":"LX1","url":"http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=","type":"1","status":"normal","type_text":"Type 1","status_text":"正常"},
 {"name":"LX2","type":1,"url":"http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
