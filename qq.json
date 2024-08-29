@@ -1,5 +1,5 @@
 {"sites":[
-{"key":"TENCENT","name":"🐧腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX2.js"}
+{"key":"TENCENT","name":"🐧腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX2.js"},
 {"key": "3602","name": "💢360","type": 3,"api": "./lib/apiv141drpy2.min.js","playerType":2,"ext": "./lib/360.js"}],
 "parses":[
 {"name":"芒果1","url":"http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=","type":"1","status":"normal","type_text":"Type 1","status_text":"正常"},
