@@ -1,5 +1,8 @@
 {"sites":[
-{"key":"TENCENT","name":"🐧腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX2.js"}],
+{"key":"TENCENT","name":"🐧腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX2.js"},
+{"key": "芒果视频","name": "芒果视频","type": 3,"api": "./lib/apiv141drpy2.min.js","ext": "./lib/芒果视频.js"},
+{"key": "优酷视频","name": "优酷视频","type": 3,"api": "./lib/apiv141drpy2.min.js","ext": "./lib/优酷视频.js"},
+{"key": "异世界","name": "异世界","type": 3,"api": "./lib/apiv141drpy2.min.js","ext": "./lib/异世界.js"}],
 "parses":[
 {"name":"腾讯1","url":"http://moyu.zhuimi.top/zhuimi.php?url=","type":"1","status":"normal","type_text":"Type 1","status_text":"正常"},
 {"name":"腾讯2","type":1,"url":"http://moyu.zhuimi.top/zhuimi.php?url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
