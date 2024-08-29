@@ -16,8 +16,11 @@
 {"key":"WENCAI","name":"💮文采","type":3,"jar":"./lib/fan.txt;md5;5f4edf28f8ec1b165b962e9888dc497c","api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"CZYS","name":"🏭厂长","type":3,"jar":"./lib/fan.txt;md5;5f4edf28f8ec1b165b962e9888dc497c","api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czys.pro/"},
 {"key":"TENCENT","name":"🐧腾讯4K","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX2.js"},
+{"key":"MANGGUO","name":"🥭芒果","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/MG2.js"}
 {"key":"JIANPIAN","name":"📽荐片","type":3,"api":"./lib/apiv141drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/JP.js"}],
 "parses":[
+{"name":"芒果1","url":"http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=","type":"1","status":"normal","type_text":"Type 1","status_text":"正常"},
+{"name":"芒果2","type":1,"url":"http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
 {"name":"腾讯1","url":"http://moyu.zhuimi.top/zhuimi.php?url=","type":"1","status":"normal","type_text":"Type 1","status_text":"正常"},
 {"name":"腾讯2","type":1,"url":"http://moyu.zhuimi.top/zhuimi.php?url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
 {"name":"腾讯3","url":"http://zhuimi996.xn--v4q818bf34b.top/zhuimi.php?url=","type":"1","status":"normal","type_text":"Type 1","status_text":"正常"},
