@@ -153,7 +153,7 @@
 			}
 		},
 {"key":"南瓜","name":"🎃南瓜","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key": "影探VIP","name": "🍥影探","type": 3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms-ytmh.lyyytv.cn/api.php/app/"},
+{"key": "影探VIP","name": "🍥影探","type": 3,"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cmsty8.lyyytv.cn/api.php/app/"},
 {"key":"AIKAN","name":"🦁爱看","type":3,"jar": "./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>[排序:自建>蓝光1>超清-01>第四>第五]\",\"线路标题\":\"<span>&&</small>\",\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",\"分类url\":\"https://www.92kyy.com/vodshow/{cateId}--------{catePg}---.html\"}"},
 {
       "key": "cjzy_快看",
@@ -318,7 +318,7 @@
 //{"name":"Json并发","type":2,"url":"Parallel"},
 //{"name":"Web聚合","type":3,"url":"Web"},
 {"name": "103","url": "http://122.228.84.103:7777/api/?key=J3RDcpC4cTTSrpyEeD&url=","type": "1","status": "normal","type_text": "Type 1","status_text": "正常"},
-{"name": "4K","type": 1,"url": "https://ldhz.li0580.com/api/jsonindex.php/?key=rcXQsB0ijCuYJl0p0f&url="},
+{"name": "4K","type": 1,"url": "http://103.117.123.51:2121/zhuimi666.php?url="},
 //{"name": "春盈","type": 1,"url": "http://119.91.123.253:2345/Api/yun.php?url="},
 {"name": "夜幕","type": 0,"url": "https://www.yemu.xyz/?url="},
 {"name": "全看","type": 0,"url": "https://jx.quankan.app/?url="},
