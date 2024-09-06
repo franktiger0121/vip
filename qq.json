@@ -90,7 +90,7 @@
 				"免嗅": "1"
 			}
 		},
-{"key": "4KVM","name": "云仓VM","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "2","api": "csp_XBPQ","ext": {"线路数组": "<div class='se-q'>&&</a>","线路标题": "class='title'>&&</span>","播放数组": "videourls:&&tables:[替换:url\":>>链洁\":\\&ep=#name\":>>name\":第#}>>\\&source=0\"和他#{>>你我]","播放列表": "你我&&和他","分类url": "https://www.4kvm.org/{cateId}/page/{catePg};;d0","分类": "电影$movies#美剧$classify/meiju#国产剧$classify/guochan#韩剧$classify/hanju#番剧$classify/fanju"}},
+{"key":"TENCENT22","name":"🐧腾讯22","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX.js"},
 {"key":"TENCENT","name":"🐧腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/QQ.js"},
 {"key":"MANGGUO","name":"🥭芒果","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/MG2.js"}],
 "parses":[
