@@ -1,5 +1,5 @@
 {"spider":"./lib/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700",
-"spider":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
+"jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 "sites":[
 {"key":"DAOHANG","name":"🌈导航","type":3,"jar":"./lib/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700","api":"csp_DouDou","searchable":0},
 {"key":"WANOU","name":"👽玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k","siteUrl":"https://www.wogg.net/"}},
