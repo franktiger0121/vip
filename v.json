@@ -1,7 +1,7 @@
-{"spider":"./lib/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700",
+{"spider":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 "sites":[
 {"key":"DAOHANG","name":"🌈导航","type":3,"api":"csp_DouDou","searchable":0},
-{"key":"WANOU","name":"👽玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k","siteUrl":"https://www.wogg.net/"}},
+{"key": "WANOU","name": "👽玩偶","type": 3,"jar":"./lib/spider.jar;md5;4adf1d5aa5fe3706001804de9c74600a","api": "csp_Wogg","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"token": "http://127.0.0.1:9978/file/TVBox/token.txt","cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt","wogg": true}},
 {"key":"ZHUIJU","name":"🎀追剧","type":3,"api":"csp_AppTT","playerType":2,"ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
 {"key":"N6V","name":"🧲六维","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.xb6v.com/"},
 {"key":"zxzj","name":"🍊在线","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
