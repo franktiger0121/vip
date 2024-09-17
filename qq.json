@@ -22,8 +22,8 @@
      },
        "timeout": 20
     },
-{"key":"TENCENT","name":"🐧腾讯Z","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TZ.js"},
-{"key":"TENCENT","name":"🐧腾讯V","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TV.js"},
+{"key":"TENCENTZZ","name":"🐧腾讯Z","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TZ.js"},
+{"key":"TENCENTVV","name":"🐧腾讯V","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TV.js"},
 {"key":"MANGGUO","name":"🥭芒果","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/MG.js"}],
 "parses":[
 {"name":"MG","type":1,"url":"http://110.42.99.99:3722/lg.php/?url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}}],
