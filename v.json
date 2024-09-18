@@ -4,7 +4,7 @@
 {"key":"WEXZJ","name":"🎀追剧","type":3,"jar":"./lib/wex.jar","api":"csp_AppZJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://z.kzjtv.com/"},
 {"key":"New6v","name":"📽6V","type":3,"jar":"./lib/wex.jar","api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com"},
 {"key":"zxzj","name":"🍊在线","type":3,"jar":"./lib/wex.jar","api":"csp_Wexzxzj","searchable":1,"changeable":1},
-{"key":"WANOU","name":"👽玩偶","type":3,"jar":"./lib/spider.jar;md5;4adf1d5aa5fe3706001804de9c74600a","api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","wogg":true}},
+{"key":"WANOU","name":"👑玩偶","type":3,"jar":"./lib/spider.jar;md5;4adf1d5aa5fe3706001804de9c74600a","api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","wogg":true}},
 {"key":"GUAZI","name":"🍉瓜子","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/GZ.js"},
 {"key":"JIANPIAN","name":"📽荐片","type":3,"api":"./lib/apiv141drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/JP.js"},
 {"key":"xiaozhen","name":"🏙小镇","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
