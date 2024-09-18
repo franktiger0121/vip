@@ -1,27 +1,7 @@
-{"spider":"./lib/moyu.php;md5;be6121b5c37471b191114027123912d2",
+{"spider":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 "sites":[
-{"key":"DAOHANG","name":"🌈导航","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key":"4KAV","name":"☁云仓","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"2","jar":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","ext":{"请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","编码":"UTF-8","主页url":"https://4k-av.com","首页":"120","起始页":"1","分类url":"/{cateId}{class}/page-{catePg}.html[https://4k-av.com/{cateId}{class}];;rcS1","分类":"剧集&电影","分类值":"tv&movie","数组":"tags\">&&</a>","标题":"alt=\"&&海报","图片":"src=\"&&\"","副标题":"标签:&&</label>","链接":"href=\"&&\"","影片年代":"年份:&&</a>","影片地区":"片长:&&</label>","影片类型":"标签:&&</div>","状态":"videodetail\">&&</label>","简介":"cnline\">&&</p>","线路数组":"videoinfo\">&&</div>","线路标题":"云仓4K","播放二次截取":"infomain\">&&reidnull[替换:href>>rtlist\"><img<span>第1集</span>src#poster.jpg>>\"</li></ul>]","播放数组":"rtlist\">&&</ul>","倒序":"0","播放列表":"<img&&</li>[替换:screenshot.jpg>>空]","播放标题":"<span*>&&</span>","播放链接":"src=\"&&\"","跳转播放链接":"<source src=\"&&\"","搜索请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","搜索url":"/s?q={wd}","搜索模式":"1","搜索标题":"title=\"&&/","搜索图片":"src=\"&&\"","搜索副标题":"标签:&&</label>","搜索链接":"href=\"&&\""}},
-    {
-      "key": "csp_Bili",
-      "name": "🅱️哔哩",
-      "type": 3,
-      "api": "csp_Bili_YS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar": "http://我不是.摸鱼儿.top/vip/jar/bili.php",
-      "filterable": 1,
-      "style": {
-      "type": "rect",
-      "ratio": 0.65
-     },
-      "ext":  
-     {
-      "cookie": "http://我不是.摸鱼儿.top/cookie",
-      "json": "http://我不是.摸鱼儿.top/json/biliych.json"
-     },
-       "timeout": 20
-    },
+{"key":"DAOHANG","name":"🌈导航","type":3,"jar":"./lib/wex.jar","api":"csp_Douban","searchable":0},
+{"key":"4KAV","name":"☁云仓","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"2","api":"csp_XBPQ","ext":{"请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","编码":"UTF-8","主页url":"https://4k-av.com","首页":"120","起始页":"1","分类url":"/{cateId}{class}/page-{catePg}.html[https://4k-av.com/{cateId}{class}];;rcS1","分类":"剧集&电影","分类值":"tv&movie","数组":"tags\">&&</a>","标题":"alt=\"&&海报","图片":"src=\"&&\"","副标题":"标签:&&</label>","链接":"href=\"&&\"","影片年代":"年份:&&</a>","影片地区":"片长:&&</label>","影片类型":"标签:&&</div>","状态":"videodetail\">&&</label>","简介":"cnline\">&&</p>","线路数组":"videoinfo\">&&</div>","线路标题":"云仓4K","播放二次截取":"infomain\">&&reidnull[替换:href>>rtlist\"><img<span>第1集</span>src#poster.jpg>>\"</li></ul>]","播放数组":"rtlist\">&&</ul>","倒序":"0","播放列表":"<img&&</li>[替换:screenshot.jpg>>空]","播放标题":"<span*>&&</span>","播放链接":"src=\"&&\"","跳转播放链接":"<source src=\"&&\"","搜索请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","搜索url":"/s?q={wd}","搜索模式":"1","搜索标题":"title=\"&&/","搜索图片":"src=\"&&\"","搜索副标题":"标签:&&</label>","搜索链接":"href=\"&&\""}},
 {"key":"TENCENTZZ","name":"🐧腾追","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TZ.js"},
 {"key":"TENCENT","name":"🐧腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX.js"},
 {"key":"MANGGUO","name":"🥭芒果","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/MG.js"}],
