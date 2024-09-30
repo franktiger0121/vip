@@ -160,7 +160,7 @@
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
-            "api": "http://www.mpanso.com/小米/appys.js",
+            "api": "./lib/apiv141drpy2.min.js",
             "ext": {
                 "host": "http://122.228.85.203:1000/api.php/app/",
                 "*": [
@@ -175,7 +175,7 @@
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
-            "api": "http://www.mpanso.com/小米/appys.js",
+            "api": "./lib/apiv141drpy2.min.js",
             "ext": {
                 "host": "http://110.42.37.106:7788/api.php/app/",
                 "*": [
