@@ -7,16 +7,16 @@
 {"key":"GZGZ","name":"🍥瓜子","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.37.106:7788/api.php/app/"},
 {"key":"GZGZ666","name":"🍥瓜子6","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.37.106:6666/api.php/app/"},
     {
-      "key": "MGTV",
-      "name": "❤️MGTV",
+      "key": "醉挽清风",
+      "name": "❤️墨玉┃4K纯净",
       "type": 3,
-      "api": "./lib/apiv141drpy2.min.js",
+      "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
       "playUrl": "json:http://moyu.zhuimi.top/zhuimi666.php?url=",
-      "ext": "./lib/MG.js",
+      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/qingfeng.js",
     "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2"
     },
 {
