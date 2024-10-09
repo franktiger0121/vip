@@ -6,6 +6,18 @@
 {"key":"JYJY","name":"🍥荐影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://122.228.85.203:1000/api.php/app/"},
 {"key":"GZGZ","name":"🍥瓜子","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.37.106:7788/api.php/app/"},
 {"key":"GZGZ666","name":"🍥瓜子6","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.37.106:6666/api.php/app/"},
+    {
+      "key": "MGTV",
+      "name": "❤️MGTV",
+      "type": 3,
+      "api": "./lib/apiv141drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "playUrl": "json:http://moyu.zhuimi.top/zhuimi666.php?url=",
+      "ext": "./lib/MG.js"
+    },
 {
 			"key": "JYTV",
 			"name": "JYTV",
