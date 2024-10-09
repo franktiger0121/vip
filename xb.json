@@ -1,7 +1,15 @@
 {"spider":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 "sites":[
 {"key":"csp_SBB","name":"🎠素白","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"搜索模式":"1","搜索url":"https://www.subaibaiys.com/search?q={wd}","搜索数组":"<li>&&</li>","播放数组":"<div class=\"paly_list_btn\">&&</div>","分类":"电影$new-movie#电视剧$tv-drama#热门电影$hot-month#高分电影$high-movie#动漫电影$cartoon-movie#香港经典电影$hongkong-movie#国产剧$domestic-drama#欧美剧$american-drama#韩剧$korean-drama#动漫剧$anime-drama","分类url":"https://www.subaibaiys.com/{cateId}/page/{catePg}"}},
-{"key":"csp_ZXZJ","name":"在线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#美剧$2#韩剧$3#日剧$4#泰剧$5#动漫$6","分类url":"https://www.zxzja.com/list/{cateId}-{catePg}.html"}},
+{"key":"csp_ZXZJ","name":"在线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{
+"线路数组":"<div class=\"stui-vodlist__head\">&&</div>",
+"线路标题":"<h3>&&</h3>",
+"播放数组":"<ul class=\"stui-content__playlist clearfix\">&&</ul>",
+"播放列表":"<li>&&</li>",
+"播放标题":">&&</a>",
+"播放链接":"href=\"&&\"",
+"分类":"电影$1#美剧$2#韩剧$3#日剧$4#泰剧$5#动漫$6",
+"分类url":"https://www.zxzja.com/list/{cateId}-{catePg}.html"}},
 {"key":"XBPQnkvod","name":"🤡耐看","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{{\"线路数组\":\"data-dropdown-value=&&</div>[排序:自建三.5>自建三>新自建>第四>第五]\",\"线路标题\":\"<span>&&</small>\",\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",\"分类url\":\"https://lkvod.me/show/{cateId}--{by}------{catePg}---{year}.html;;ak\"}"},
 {"key":"XBPQnkvod22","name":"🤡耐看22","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{{\"线路数组\":\"data-dropdown-value=&&</div>[排序:自建三.5>自建三>新自建>第四>第五]\",\"线路标题\":\"<span>&&</small>\",\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",\"分类url\":\"https://nkdyw.net/show/{cateId}--{by}------{catePg}---{year}.html;;ak\"}"},
 {"key":"XBPQnkvod33","name":"🤡耐看33","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{{\"线路数组\":\"data-dropdown-value=&&</div>[排序:自建三.5>自建三>新自建>第四>第五]\",\"线路标题\":\"<span>&&</small>\",\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",\"分类url\":\"https://nkvlog.com/show/{cateId}--{by}------{catePg}---{year}.html;;ak\"}"},
