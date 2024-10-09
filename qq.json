@@ -16,7 +16,8 @@
       "filterable": 1,
       "order_num": 0,
       "playUrl": "json:http://moyu.zhuimi.top/zhuimi666.php?url=",
-      "ext": "./lib/MG.js"
+      "ext": "./lib/MG.js",
+    "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2"
     },
 {
 			"key": "JYTV",
