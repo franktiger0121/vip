@@ -1,6 +1,15 @@
 {"spider":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 "sites":[
-{"key":"花都影视","name":"花都影视","type":1,"api":"https://hdys2.com/api.php/provide/vod/","searchable":1,"quickSearch":0}],
+{"key":"花都影视","name":"花都影视","type":1,"api":"https://hdys2.com/api.php/provide/vod/","searchable":1,"quickSearch":0},
+{"key":"富二代","name":"富二代","type":0,"api":"http://f2dcj6.com/sapi?ac=list&pg=1","searchable":1,"quickSearch":0,"filterable":0},
+{"key":"gdlsp","name":"老色胚","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":0},
+{"key":"kxgav","name":"开心果AV","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":0},
+{"key":"CK资源","name":"CK资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"changeable":0,"filterable":1},
+{"key":"乐播资源","name":"乐播资源","type":0,"api":"https://lbapi9.com/api.php/provide/vod/at/xml","searchable":1,"changeable":0,"filterable":1},
+{"key":"白嫖资源","name":"白嫖资源","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"changeable":0,"filterable":1},
+{"key":"鲨鱼资源","name":"鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":1,"changeable":0,"filterable":1},
+{"key":"155zy.com","name":"155(直连)","type":1,"api":"https://155api.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":0},
+{"key":"tantanzy.com","name":"探探(直连)","type":1,"api":"https://apittzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":0}],
 "parses":[
 {"name":"JY","type":1,"url":"http://122.228.85.203:7979/api/?key=29a5e65c75bf3d339dec1bf50155cf87&url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
 {"name":"JX","type":1,"url":"https://jxjson.icu/neibu.php?url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
