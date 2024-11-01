@@ -17,26 +17,9 @@
       "filterable": 1,
       "api": "./lib/MH.js",
       "ext": {
-        "host": "http://cmsytv.lyyytv.cn/api.php/app/",
+        "host": "http://115.231.220.139:8466/api.php/app/",
         "*": [
           "http://122.228.85.203:7979/api/?key=5161733cdfb2796ddd6707494fc3e4fc&url="
-        ]
-      }
-    },
-        {
-      "key": "梦幻ZM",
-      "name": "🌀️梦幻ZM",
-      "playerType": 1,
-      "type": 3,
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "./lib/MH.js",
-      "ext": {
-        "host": "http://cmsytv.lyyytv.cn/api.php/app/",
-        "*": [
-          "http://moyu.zhuimi.top/zhuimi666.php?url="
         ]
       }
     },
@@ -51,13 +34,13 @@
       "filterable": 1,
       "api": "./lib/MH.js",
       "ext": {
-        "host": "http://cmsytv.lyyytv.cn/api.php/app/",
+        "host": "http://115.231.220.139:8466/api.php/app/",
         "*": [
           "https://xn--yet24tmq1a.xyz/tvbox/json/json.php/?key=104847347&url="
         ]
       }
     },
-{"key": "YTHB","name": "🌀️影探","playerType": 1,"type": 3,"changeable": 0,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "./lib/MH.js","ext": {"host": "http://cmsytv.lyyytv.cn/api.php/app/","*": ["https://xn--yet24tmq1a.xyz/tvbox/json/json.php/?key=104847347&url="]}},
+{"key": "YTZM","name": "🌀️影探","playerType": 1,"type": 3,"changeable": 0,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "./lib/MH.js","ext": {"host": "http://cmsytv.lyyytv.cn/api.php/app/","*": ["http://moyu.zhuimi.top/zhuimi666.php?url="]}},
 {"key":"GUAZI","name":"🍉瓜子","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/GZ.js"},
 {"key":"GZYS","name":"🥥瓜子","type":3,"api":"csp_AppGZ","jar":"http://我不是.摸鱼儿.com/by/jar/danmu.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"ZXZJ","name":"在线","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/zx.js"},
