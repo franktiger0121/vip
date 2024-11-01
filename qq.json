@@ -17,26 +17,9 @@
       "filterable": 1,
       "api": "./lib/MH.js",
       "ext": {
-        "host": "http://103.38.82.59:3347/api.php/app/",
+        "host": "http://110.42.37.106:7788/api.php/app/",
         "*": [
           "http://122.228.85.203:7979/api/?key=5161733cdfb2796ddd6707494fc3e4fc&url="
-        ]
-      }
-    },
-    {
-      "key": "梦幻ZM",
-      "name": "🌀️梦幻ZM",
-      "playerType": 1,
-      "type": 3,
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "./lib/MH.js",
-      "ext": {
-        "host": "http://103.38.82.59:3347/api.php/app/",
-        "*": [
-          "http://moyu.zhuimi.top/zhuimi666.php?url="
         ]
       }
     },
@@ -51,7 +34,7 @@
       "filterable": 1,
       "api": "./lib/MH.js",
       "ext": {
-        "host": "http://103.38.82.59:3347/api.php/app/",
+        "host": "http://110.42.37.106:7788/api.php/app/",
         "*": [
           "https://xn--yet24tmq1a.xyz/tvbox/json/json.php/?key=104847347&url="
         ]
