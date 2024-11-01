@@ -1,6 +1,9 @@
 {"spider":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 "sites":[
 {"key":"DAOHANG","name":"🌈导航","type":3,"jar":"./lib/wex.jar","api":"csp_Douban","searchable":0},
+{"key":"WEXZJ","name":"🎀追剧","type":3,"api":"csp_AppZJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://z.kzjtv.com/"},
+{"key":"csp_AppTT","name":"🌜天天","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_AppRB","name":"📺热播","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"GUAZI","name":"🍉瓜子","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/GZ.js"},
 {"key":"ZXZJ","name":"在线","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/zx.js"},
 {"key":"heimuer","name":"🐤木耳","type":1,"api":"https://www.heimuer.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","泰国剧","欧美剧","海外剧","香港剧","台湾剧","日本剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","记录片","短片","动画片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日本动漫"]},
@@ -229,6 +232,7 @@
 			}
 		},
 {"key":"TENCENTZZ","name":"🐧腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX.js"},
+{"key":"MANGGUOXM","name":"🥭MG","type":3,"api":"./JS/drpy2.min.js","ext":"https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"},
 {"key":"MANGGUO","name":"🥭芒果","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/MG.js"}],
 "parses":[
 {"name":"JY","type":1,"url":"http://122.228.85.203:7979/api/?key=29a5e65c75bf3d339dec1bf50155cf87&url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
