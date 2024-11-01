@@ -1,6 +1,5 @@
 {"spider":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 "sites":[
-{"key":"cally","name":"cally","type":3,"api":"csp_XBPQ","ext":{"分类url":"http://cally66.icu/vod/list.html?area_id={area}&cate_id={cate_Id}&lang_id={lang}&page={catePg}&type_id={cateId}&year_id={year}","分类":"电影$1#剧集$2#综艺$3#动漫$4"}},
 {"key":"csp_SBB","name":"🎠素白","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"搜索模式":"1","搜索url":"https://www.subaibaiys.com/search?q={wd}","搜索数组":"<li>&&</li>","播放数组":"<div class=\"paly_list_btn\">&&</div>","分类":"电影$new-movie#电视剧$tv-drama#热门电影$hot-month#高分电影$high-movie#动漫电影$cartoon-movie#香港经典电影$hongkong-movie#国产剧$domestic-drama#欧美剧$american-drama#韩剧$korean-drama#动漫剧$anime-drama","分类url":"https://www.subaibaiys.com/{cateId}/page/{catePg}"}},
 {"key":"csp_ZXZJ","name":"在线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{
 "线路数组":"<div class=\"stui-vodlist__head\">&&</div>",
