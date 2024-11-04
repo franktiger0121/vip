@@ -9,8 +9,8 @@
 {"key":"GUAZI","name":"🍉瓜子","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/GZ.js"},
 {"key":"JINPAI","name":"🥇金牌","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/JP2.js"},
 {"key":"JIANPIAN","name":"📽荐片","type":3,"api":"./lib/apiv141drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/JP.js"},
-{"key":"TENCENTZZ","name":"🐧腾腾","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TZ.js"},
-{"key":"TENCENT","name":"🐧腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX.js"},
+{"key":"TENCENTZZ","name":"🐧腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TZ.js"},
+{"key":"TENCENTXM","name":"🐧腾腾","type":3,"api":"./JS/drpy2.min.js","ext":"./JS/ttt.js"},
 {"key":"jiulong","name":"🐉九龙","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"https://xn--yet24tmq1a.xyz/tvbox/js/?key=104847347&id=九龙"},
 {"key":"youyoujs","name":"🦋悠悠","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"https://xn--yet24tmq1a.xyz/tvbox/js/?key=104847347&id=悠悠"},
 {"key":"xiaoxiongjs","name":"🧸小熊","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"https://xn--yet24tmq1a.xyz/tvbox/js/?key=104847347&id=小熊"},
@@ -27,6 +27,5 @@
 {"key":"iKUN","name":"🐣爱坤","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","泰国剧","欧美剧","海外剧","香港剧","台湾剧","日本剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","记录片","短片","动画片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日本动漫"]}],
 "parses":[
 {"name":"JX","type":1,"url":"https://jxjson.icu/neibu.php?url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
-{"name":"CK","type":1,"url":"https://ckflv.icu/neibu.php?url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
-{"name":"ZM","type":1,"url":"http://moyu.zhuimi.top/zhuimi666.php?url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}}],
+{"name":"CK","type":1,"url":"https://ckflv.icu/neibu.php?url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}}],
 "doh":[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],"lives":{"name":"live","type":0,"url":"https://gg.gg/cctvgg","playerType":1}}
