@@ -13,7 +13,7 @@
 {"key":"JINPAI","name":"🥇金牌","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/JP2.js"},
 {"key":"JIANPIAN","name":"📽荐片","type":3,"api":"./lib/apiv141drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/JP.js"},
 {"key":"YT","name":"🤩影探","playerType":1,"type":3,"changeable":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"./lib/MH.js","ext":{"host":"http://cmstv.lyyytv.cn/api.php/app/","*":["http://122.228.85.203:7979/api/?key=b79f3d73679125f91b26af8a69eaada3&url="]}},
-{"key":"TENCENTZZ","name":"🐧腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TZ.js"},
+{"key":"2963QQ","name":"🐧腾讯","playerType":1,"type":3,"changeable":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"./lib/MH.js","ext":{"host":"http://122.228.85.237:2963/api.php/app/","*":["http://110.40.61.139:4655/zhuimi666.php?url="]}},
 {"key":"jiulong","name":"🐉九龙","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"https://xn--yet24tmq1a.xyz/tvbox/js/?key=104847347&id=九龙"},
 {"key":"youyoujs","name":"🦋悠悠","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"https://xn--yet24tmq1a.xyz/tvbox/js/?key=104847347&id=悠悠"},
 {"key":"xiaoxiongjs","name":"🧸小熊","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"https://xn--yet24tmq1a.xyz/tvbox/js/?key=104847347&id=小熊"},
