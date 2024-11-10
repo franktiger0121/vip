@@ -4,7 +4,7 @@
 {"key":"HH","name":"🦊黑狐","type":3,"api":"csp_XBPQ","ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>[排序:优>咪>搜>奇]","线路标题":">&&<","分类":"电影$1#电视剧$2#动漫$3#综艺$4","分类url":"http://fagmn.com/list/{cateId}_{catePg}.html?order=time"}},
 {"key":"YB","name":"💖云播","type":3,"api":"csp_XBPQ","ext":{"线路数组":"<div class=\"myui-panel__head bottom-line active clearfix\">&&</div>[排序:移动专线>量子线路>非凡线路>第四>第五]","线路标题":"title\">&&</h3>","播放数组":"<ul class=\"myui-content__list scrollbar sort-list clearfix\"&&</ul>","分类":"电影$1#电视剧$2#综艺$3#动漫$4","分类url":"http://www.tvyun01.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"}},
 {"key":"YTAPI","name":"🍥影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cmstv.lyyytv.cn/api.php/app/"},
-{"key":"GZGZ","name":"🍥瓜子","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.37.106:7788/api.php/app/"},
+{"key":"GZGZ","name":"🍉瓜子","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.37.106:7788/api.php/app/"},
 {"key":"JP","name":"🥇金牌","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/JP2.js"},
 {"key":"JPN","name":"📽荐片","type":3,"api":"./lib/apiv141drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/JP.js"},
 {"key":"TENCENTXM","name":"🐧腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/ttt.js"},
