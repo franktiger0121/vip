@@ -18,7 +18,7 @@
 {"key":"3699","name":"🤩3699","playerType":1,"type":3,"changeable":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"./lib/MH.js","ext":{"host":"http://122.228.85.237:3699/api.php/app/","*":["http://122.228.85.203:7979/api/?key=b79f3d73679125f91b26af8a69eaada3&url="]}},
 {"key":"i222","name":"🤩i222","playerType":1,"type":3,"changeable":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"./lib/MH.js","ext":{"host":"http://i222.top/api.php/app/","*":["http://122.228.85.203:7979/api/?key=b79f3d73679125f91b26af8a69eaada3&url="]}},
 {"key":"GUAZI","name":"🍉瓜子","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/GZ.js"},
-{"key":"GUAZI","name":"🍉瓜子2","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/GZ2.js"},
+{"key":"GUAZI22","name":"🍉瓜子2","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/GZ2.js"},
 {"key":"GZYS","name":"🥥瓜子","type":3,"api":"csp_AppGZ","jar":"http://我不是.摸鱼儿.com/by/jar/danmu.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"ZXZJ","name":"在线","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/zx.js"},
 {"key":"heimuer","name":"🐤木耳","type":1,"api":"https://www.heimuer.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","泰国剧","欧美剧","海外剧","香港剧","台湾剧","日本剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","记录片","短片","动画片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日本动漫"]},
