@@ -31,9 +31,9 @@
 {"key":"GZGZ","name":"🍥瓜子","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.37.106:7788/api.php/app/"},
 {"key":"YTAPI","name":"🍥YT","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cmstv.lyyytv.cn/api.php/app/"},
 {"key":"WANMEI","name":"完美","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"https://gitee.com/XIYANkong123/536992286/raw/moyuer/wanmei.js"},
-{"key":"TMXM","name":"🐧TM","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/tm.js"},
-{"key":"TENCENTXM","name":"🐧TT","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/ttt.js"},
-{"key":"MANGGUOXM","name":"🥭GG","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/guoguo.js"},
+{"key":"KQXM","name":"KQ","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"https://gitee.com/smallmi1007/mimi/raw/master/kanqiu.js"},
+{"key":"TENCENTXM","name":"TT","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"https://gitee.com/smallmi1007/mimi/raw/master/tm.js"},
+{"key":"MANGGUOXM","name":"GG","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"},
 {"key":"TENCENTZZ","name":"🐧腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX.js"},
 {"key":"MANGGUO","name":"🥭芒果","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/MG.js"}],
 "parses":[
