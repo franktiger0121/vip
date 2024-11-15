@@ -37,9 +37,9 @@
 {"key":"TENCENTZZ","name":"🐧腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX.js"},
 {"key":"MANGGUO","name":"🥭芒果","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/MG.js"}],
 "parses":[
+{"name":"CK","type":1,"url":"https://ckflv.icu/neibu.php?url="},
+{"name":"JX","type":1,"url":"https://jxjson.icu/neibu.php?url="},
 {"name":"YZ","type":1,"url":"http://jx.yzmjx.com:5689/api/?key=8557ec9384556468182a162496f84a53&url="},
-{"name":"QQ","type":1,"url":"http://139.224.73.238:16555/qq2.php?url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
-{"name":"JX","type":1,"url":"https://jxjson.icu/neibu.php?url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
-{"name":"CK","type":1,"url":"https://ckflv.icu/neibu.php?url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
-{"name":"ZM","type":1,"url":"http://110.40.61.139:4655/zhuimi666.php?url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}}],
+{"name":"QQ","type":1,"url":"http://139.224.73.238:16555/qq2.php?url="},
+{"name":"ZM","type":1,"url":"http://110.40.61.139:4655/zhuimi666.php?url="}],
 "doh":[{"name":"QQ","url":"https://doh.pub/dns-query","ips":["119.29.29.29"]},{"name":"ALI","url":"https://dns.alidns.com/dns-query","ips":["223.5.5.5","223.6.6.6"]}],"lives":{"name":"live","type":0,"url":"./lib/live.txt","playerType":1}}
