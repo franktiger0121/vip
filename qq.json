@@ -14,7 +14,7 @@
 {"key":"HL","name":"🤩HL","playerType":1,"type":3,"changeable":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"./lib/MH.js","ext":{"host":"https://www.heli888.cc/api.php/app/","*":["http://jx.yzmjx.com:5689/api/?key=8557ec9384556468182a162496f84a53&url="]}},
 {"key":"103142","name":"🤩103","playerType":1,"type":3,"changeable":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"./lib/MH.js","ext":{"host":"http://103.142.103.84/api.php/app/","*":["http://jx.yzmjx.com:5689/api/?key=8557ec9384556468182a162496f84a53&url="]}},
 {"key":"1000","name":"🤩1000","playerType":1,"type":3,"changeable":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"./lib/MH.js","ext":{"host":"http://122.228.85.203:1000/api.php/app/","*":["http://jx.yzmjx.com:5689/api/?key=8557ec9384556468182a162496f84a53&url="]}},
-{"key":"YTQN","name":"🤩影探QN","playerType":1,"type":3,"changeable":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"./lib/MH.js","ext":{"host":"http://cmstv.lyyytv.cn/api.php/app/","*":["http://qn6z7b.yun.42jx.com/jx/jx.php?url="]}},
+{"key":"YTQN","name":"🤩影探QN","playerType":1,"type":3,"changeable":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"./lib/MH.js","ext":{"host":"http://cmsyttv.lyyytv.cn/api.php/app/","*":["http://qn6z7b.yun.42jx.com/jx/jx.php?url="]}},
 {"key":"8466","name":"🤩8466","playerType":1,"type":3,"changeable":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"./lib/MH.js","ext":{"host":"http://115.231.220.139:8466/api.php/app/","*":["http://jx.yzmjx.com:5689/api/?key=8557ec9384556468182a162496f84a53&url="]}},
 {"key":"6666","name":"🤩6666","playerType":1,"type":3,"changeable":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"./lib/MH.js","ext":{"host":"http://110.42.37.106:6666/api.php/app/","*":["http://jx.yzmjx.com:5689/api/?key=8557ec9384556468182a162496f84a53&url="]}},
 {"key":"3699","name":"🤩3699","playerType":1,"type":3,"changeable":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"./lib/MH.js","ext":{"host":"http://122.228.85.237:3699/api.php/app/","*":["http://jx.yzmjx.com:5689/api/?key=8557ec9384556468182a162496f84a53&url="]}},
@@ -30,7 +30,7 @@
 {"key":"繁荣","name":"🥝凡人","type":3,"api":"csp_Frong","playerType":2,"ext":"FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTZ8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MzNhN2ZmYTljODU0MTJjNzQyZjdhMjA5fDI1fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDMzYTdmZmE5Yzg1NDEyYzc=","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"
 		},
 {"key":"GZGZ","name":"🍥瓜子","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.37.106:7788/api.php/app/"},
-{"key":"YTAPI","name":"🍥YT","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cmstv.lyyytv.cn/api.php/app/"},
+{"key":"YTAPI","name":"🍥YT","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cmsyttv.lyyytv.cn/api.php/app/"},
 {"key":"TENCENTXM","name":"TM","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"https://gitee.com/smallmi1007/mimi/raw/master/tm.js"},
 {"key":"MANGGUOXM","name":"GG","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"},
 {"key":"TENCENTZZ","name":"🐧腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX.js"},
