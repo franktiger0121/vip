@@ -1,7 +1,6 @@
 {"spider":"./lib/c1.txt;md5;bb155c3f0133bbce4756ad52003f5968",
 "sites":[
 {"key":"YTAPI","name":"💗影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cmsyttv.lyyytv.cn/api.php/app/"},
-{"key":"YTQN","name":"🤩YT","playerType":1,"type":3,"changeable":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"./lib/MH.js","ext":{"host":"http://cmsyttv.lyyytv.cn/api.php/app/","*":["http://111.229.188.154/mythree/myyt.php?url=","http://qn6z7b.yun.42jx.com/jx/jx.php?url="]}},
 {"key":"2963QQ","name":"🐧腾讯","playerType":1,"type":3,"changeable":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"./lib/MH.js","ext":{"host":"http://122.228.85.237:2963/api.php/app/","*":["http://jx.hjfggzs.top/api/diy/?key=ASSNxYwYLK3KDm2IA0&url=","http://110.40.61.139:4655/zhuimi666.php?url="]}},
 {"key":"xiaozhen","name":"🏙小镇","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
 {"key":"dudu30","name":"😙嘟嘟","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"线路数组\":\"playerico ico-Azhan&&/li>\",\"线路标题\":\"</i>&&<\",\"分类\":\"电影$1#电视剧$2#国产剧$12#港剧$21#综艺$31#动漫$26\",\"分类url\":\"https://www.dudu38.com/?m=vod-type-id-{cateId}-pg-{catePg}.html\"}"},
