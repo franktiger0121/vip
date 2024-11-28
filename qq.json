@@ -2,8 +2,8 @@
 "sites":[
 {"key":"DAOHANG","name":"🌈导航","type":3,"jar":"./lib/wex.jar","api":"csp_Douban","searchable":0},
     {
-      "key": "ZMQQ",
-      "name": "🐧腾追",
+      "key": "炉火茶香",
+      "name": "🌀炉火茶香┃4K纯净",
       "type": 3,
       "jar":"./lib/moyu.php;md5;be6121b5c37471b191114027123912d2",
       "api": "csp_AppYsV3",
