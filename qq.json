@@ -1,6 +1,8 @@
 {"spider":"./lib/spider.jar;md5;eb7676582d076a5505be5f23530e4f4d",
 "sites":[
 {"key":"DAOHANG","name":"🌈导航","type":3,"api":"csp_Douban","searchable":0},
+{"key":"JP","name":"🥇金牌","type":3,"api":"csp_XBPQ","ext":"./lib/JP2.js"},
+{"key":"JPN","name":"📽荐片","type":3,"api":"csp_XBPQ","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/JP.js"},
 {"key":"WEXZJ","name":"🎀追剧","type":3,"api":"csp_AppZJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://z.kzjtv.com/"},
 {"key":"csp_AppTT","name":"🌜天天","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppRB","name":"📺热播","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
