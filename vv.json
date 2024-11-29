@@ -1,5 +1,6 @@
 {"spider":"./lib/spider.jar;md5;eb7676582d076a5505be5f23530e4f4d",
 "sites":[
+{"key":"DAOHANG","name":"🌈导航","type":3,"api":"csp_Douban","searchable":0},
 {"key":"XIAOM","name":"👑小米","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"https://codeberg.org/vip3/vip/raw/branch/master/lib/cc.txt","site":"http://www.mucpan.cc"}},
 {"key":"MO","name":"👑木偶","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"https://codeberg.org/vip3/vip/raw/branch/master/lib/cc.txt","site":"http://www.mogg.top"}},
 {"key":"WO","name":"👑玩偶","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"https://codeberg.org/vip3/vip/raw/branch/master/lib/cc.txt","site":"https://wogg.xxooo.cf"}},
