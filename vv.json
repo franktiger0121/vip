@@ -8,6 +8,15 @@
 {"key":"DD","name":"👑多多","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"https://codeberg.org/vip3/vip/raw/branch/master/lib/cc.txt","site":"https://tv.yydsys.top"}},
 {"key":"YTAPI","name":"💗影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cmsyttv.lyyytv.cn/api.php/app/"},
 {"key":"GUAZI","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
+        {
+            "key": "厂长资源",
+            "name": "厂长｜资源",
+            "type": 3,
+            "api": "csp_Czzy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
 {"key":"PG","name":"🍎苹果","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"WC","name":"📕文才","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"XQ","name":"🌍星球","type":3,"api":"csp_AppDaMi","searchable":1,"quickSearch":1,"filterable":1},
