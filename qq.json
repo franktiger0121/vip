@@ -1,6 +1,25 @@
 {"spider":"./lib/spider.jar;md5;eb7676582d076a5505be5f23530e4f4d",
 "sites":[
 {"key":"DAOHANG","name":"🌈导航","type":3,"api":"csp_Douban","searchable":0},
+          {
+      "key": "追梦",
+      "name": "听风综合",
+      "type": 1,
+      "api": "http://113.31.111.169:86/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "categories":[
+                "电影",
+                "电视剧",
+                "综艺",
+                "动漫",
+                "少儿",
+                "纪录片",
+                "哔哩哔哩"
+            ]
+    },
 {"key":"JP","name":"🥇金牌","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/JP2.js"},
 {"key":"WEXZJ","name":"🎀追剧","type":3,"api":"csp_AppZJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://z.kzjtv.com/"},
 {"key":"csp_AppTT","name":"🌜天天","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
