@@ -1,6 +1,7 @@
 {"spider":"./lib/spider.jar;md5;eb7676582d076a5505be5f23530e4f4d",
 "sites":[
 {"key":"DAOHANG","name":"🌈导航","type":3,"api":"csp_Douban","searchable":0},
+{"key":"FFZY","name":"非凡","type":1,"api":"http://114.132.55.23/bl/mb/api.php/provide/vod/?ac=videolist","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","泰国剧","海外剧","动画片","喜剧片","科幻片","动作片","爱情片","大陆综艺","国产动漫","日本动漫","里番动漫","伦理片"]},
 {"key":"JP","name":"🥇金牌","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/JP2.js"},
 {"key":"WEXZJ","name":"🎀追剧","type":3,"api":"csp_AppZJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://z.kzjtv.com/"},
 {"key":"csp_AppTT","name":"🌜天天","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
