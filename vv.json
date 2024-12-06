@@ -1,4 +1,4 @@
-﻿{"spider":"./lib/spider.jar;md5;eb7676582d076a5505be5f23530e4f4d",
+{"spider":"./lib/spider.jar;md5;eb7676582d076a5505be5f23530e4f4d",
 "sites":[
 {"key":"DAOHANG","name":"🌈导航","type":3,"api":"csp_Douban","searchable":0},
 {"key":"XIAOM","name":"👑小米","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"https://codeberg.org/vip3/vip/raw/branch/master/lib/cc.txt","site":"http://ucmi.fun"}},
@@ -18,10 +18,12 @@
 {"key":"iKun","name":"🐣爱坤","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","泰国剧","海外剧","动画片","喜剧片","科幻片","动作片","爱情片","大陆综艺","国产动漫","日本动漫","里番动漫","伦理片"]},
 {"key":"GUAZI","name":"🍉瓜子","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/GZ.js"},
 {"key":"TENCENTUU","name":"🐧腾讯","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TH.js"},
+{"key":"TENCENTWW","name":"🐧腾腾","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TW.js"},
 {"key":"MANGGUO","name":"🥭芒果","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/MG.js"},
 {"key":"JPN","name":"📽荐片","type":3,"api":"./lib/apiv141drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/JP.js"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt"}}],
 "parses":[
+{"name":"XW","type":1,"url":"http://1.94.221.189:88/algorithm.php?url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
 {"name":"QN","type":1,"url":"http://qn6z7b.yun.42jx.com/jx/jx.php?url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
 {"name":"HJ","type":1,"url":"http://jx.hjfggzs.top/api/diy/?key=ASSNxYwYLK3KDm2IA0&url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}}],
 "doh":[{"name":"QQ","url":"https://doh.pub/dns-query","ips":["119.29.29.29"]},{"name":"ALI","url":"https://dns.alidns.com/dns-query","ips":["223.5.5.5","223.6.6.6"]}],"lives":{"name":"live","type":0,"url":"http://122.228.85.203:5988/uploads/tvbox/tv.txt","playerType":1}}
