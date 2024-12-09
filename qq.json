@@ -19,6 +19,7 @@
 {"key":"YTAPI","name":"🍥YT","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cmsyttv.lyyytv.cn/api.php/app/"},
 {"key":"TENCENTXM","name":"TM","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"https://gitee.com/smallmi1007/mimi/raw/master/tm.js"},
 {"key":"MANGGUOXM","name":"GG","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"},
+{"key":"TENCENTQU","name":"🐧腾趣","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TH.js"},
 {"key":"TENCENT","name":"🐧腾腾","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/TX.js"}],
 "parses":[
 {"name":"XF","type":1,"url":"https://jx.xiaofengtv.com/jx.php?url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
