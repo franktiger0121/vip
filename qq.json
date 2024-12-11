@@ -1,7 +1,15 @@
 {"spider":"./lib/spider.jar;md5;eb7676582d076a5505be5f23530e4f4d",
 "sites":[
 {"key":"DAOHANG","name":"🌈导航","type":3,"api":"csp_Douban","searchable":0},
-{"key":"Wexkoukou","name":"🌺扣扣","type":3,"jar":"./lib/wex.txt;md5;f54ce925795ab9a15db5b32345844be6","api":"csp_Wexkoukou","ext":"./lib/TX.js"},
+    {
+      "key": "Wexkoukou",
+      "name": "🌺扣扣┃4K🌺",
+      "type": 3,
+      "jar":"./lib/wex.txt;md5;f54ce925795ab9a15db5b32345844be6",
+      "api": "csp_Wexkoukou",
+      "searchable": 1,
+      "changeable": 1
+    },
 {"key":"JP","name":"🥇金牌","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/JP2.js"},
 {"key":"WEXZJ","name":"🎀追剧","type":3,"api":"csp_AppZJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://z.kzjtv.com/"},
 {"key":"csp_AppTT","name":"🌜天天","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
