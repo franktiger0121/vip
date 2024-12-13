@@ -1,4 +1,4 @@
-{"spider":"./lib/spider.jar;md5;eb7676582d076a5505be5f23530e4f4d",
+{"spider":"./lib/xs.jar;md5;62604d62b4f3bd41b195b5670bed80a9",
 "sites":[
 {"key":"DAOHANG","name":"🌈导航","type":3,"api":"csp_Douban","searchable":0},
         {
