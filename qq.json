@@ -1,7 +1,6 @@
 {"spider":"./lib/spider.jar;md5;eb7676582d076a5505be5f23530e4f4d",
 "sites":[
 {"key":"DAOHANG","name":"🌈导航","type":3,"api":"csp_Douban","searchable":0},
-{"key":"HONGDOU","name":"🍉瓜子","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/HD.js"},
 {"key":"JP","name":"🥇金牌","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/JP2.js"},
 {"key":"csp_AppTT","name":"🌜天天","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppRB","name":"📺热播","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
