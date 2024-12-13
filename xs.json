@@ -1,4 +1,4 @@
-﻿{"spider":"./lib/spider.jar;md5;eb7676582d076a5505be5f23530e4f4d",
+{"spider":"./lib/xs.jar;md5;62604d62b4f3bd41b195b5670bed80a9",
 "sites":[
 {"key":"DAOHANG","name":"🌈导航","type":3,"api":"csp_Douban","searchable":0},
 {"key":"XIAOM","name":"👑小米","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"https://codeberg.org/vip3/vip/raw/branch/master/lib/cc.txt","site":"http://ucmi.fun"}},
