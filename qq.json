@@ -1,7 +1,7 @@
 {"spider":"./lib/spider.jar;md5;eb7676582d076a5505be5f23530e4f4d",
 "sites":[
 {"key":"DAOHANG","name":"🌈导航","type":3,"api":"csp_Douban","searchable":0},
-{"key":"HONGDOU","name":"红豆","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/WM.js"},
+{"key":"HONGDOU","name":"🍉红豆","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/HD.js"},
 {"key":"JP","name":"🥇金牌","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/JP2.js"},
 {"key":"csp_AppTT","name":"🌜天天","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppRB","name":"📺热播","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
@@ -9,7 +9,7 @@
 {"key":"HL","name":"🤩HL","playerType":1,"type":3,"changeable":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"./lib/MH.js","ext":{"host":"https://www.heli888.cc/api.php/app/","*":["http://jx.hjfggzs.top/api/diy/?key=ASSNxYwYLK3KDm2IA0&url="]}},
 {"key":"KCYS","name":"🤩KCYS","playerType":1,"type":3,"changeable":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"./lib/MH.js","ext":{"host":"http://itv.zwzs.fun/api.php/app/","*":["http://jx.hjfggzs.top/api/diy/?key=ASSNxYwYLK3KDm2IA0&url="]}},
 {"key":"GUAZI","name":"🍉瓜子","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/GZ.js"},
-{"key":"ZXZJ","name":"在线","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/zx.js"},
+{"key":"ZXZJ","name":"🍊韩剧","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/zx.js"},
 {"key":"YTAPI","name":"🍥YT","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cmstv110.lyyytv.cn/api.php/app/"},
 {"key":"TENCENTXM","name":"TM","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"https://gitee.com/smallmi1007/mimi/raw/master/tm.js"},
 {"key":"MANGGUOXM","name":"GG","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"},
