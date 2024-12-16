@@ -1,6 +1,7 @@
 {"spider":"./lib/xs.jar;md5;62604d62b4f3bd41b195b5670bed80a9",
 "sites":[
 {"key":"DAOHANG","name":"🌈导航","type":3,"api":"csp_Douban","searchable":0},
+{"key":"RRSP","name":"人人","type":4,"api":"http://111.229.188.154:5757/api/普天同","searchable":1,"ext":""},
 {"key":"HXQ","name":"韩圈","type":3,"api":"csp_HanXiaoQuan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"FR","name":"凡人","type":3,"api":"csp_AppFr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"JP","name":"🥇金牌","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/JP2.js"},
