@@ -1,7 +1,7 @@
 {"spider":"./lib/xs.jar;md5;62604d62b4f3bd41b195b5670bed80a9",
 "sites":[
 {"key":"DAOHANG","name":"🌈导航","type":3,"api":"csp_Douban","searchable":0},
-{"key":"LIANGZI","name":"🐣量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/","searchable":1,"quickSearch":1,"categories":["国产剧","国产动漫","泰国剧","台湾剧","香港剧","欧美剧","韩国剧","日本剧","动漫","日韩动漫","剧情片","动作片","爱情片","喜剧片"]},
+{"key":"LIANGZI","name":"🐣量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","泰国剧","海外剧","国产动漫","日韩动漫","海外动漫","台湾剧","香港剧","欧美剧","日本剧","动漫","剧情片","动作片","爱情片","喜剧片","伦理片"]},
 {"key":"Ikanbot","name":"🤖爱看","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"RRSP","name":"人人","type":3,"api":"./lib/apiv141drpy2.min.js","ext":"./lib/RR.js"},
 {"key":"HXQ","name":"韩圈","type":3,"api":"csp_HanXiaoQuan","searchable":1,"quickSearch":1,"filterable":1},
